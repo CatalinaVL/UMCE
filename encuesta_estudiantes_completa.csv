@@ -1,0 +1,1001 @@
+"ID","Carrera","Tutor","Desempeño_academico","Desempeño_profesional","Tiempo_dedicado","Satisfaccion_practica","Compromiso_estudio","Apoyo_tutor","Retroalimentacion","Seguimiento","Reuniones","Motivacion_estudio","Redes_apoyo","Estres","Expectativas_carrera"
+1,"Psicología","Lic. López",3,5,18,3,1,1,3,1,7,1,4,2,4
+2,"Psicología","Dr. Fernández",2,2,40,1,3,2,3,2,3,1,2,3,2
+3,"Economía","Dr. Sánchez",3,3,11,1,3,1,4,3,2,2,4,4,3
+4,"Medicina","Dr. Pérez",4,1,21,3,1,4,2,5,0,5,3,3,3
+5,"Ingeniería Informática","Lic. Martínez",1,5,35,4,1,5,3,3,0,3,1,3,3
+6,"Derecho","Lic. Rodríguez",5,3,12,5,4,1,2,2,4,4,4,4,5
+7,"Arquitectura","Dra. Gómez",2,1,14,4,1,3,1,2,7,1,5,1,3
+8,"Ingeniería Informática","Dr. Pérez",5,4,31,2,1,5,2,1,0,5,1,5,1
+9,"Ciencias Sociales","Dr. Pérez",5,4,37,5,5,5,3,2,9,2,4,4,2
+10,"Economía","Dr. Sánchez",1,5,36,3,1,4,3,1,0,2,1,4,4
+11,"Derecho","Dr. Sánchez",3,4,35,4,5,3,5,5,6,3,2,4,5
+12,"Psicología","Dr. Pérez",5,2,10,3,2,5,5,5,3,2,5,1,4
+13,"Ciencias Sociales","Lic. Rodríguez",4,2,15,2,4,2,4,4,6,5,3,5,2
+14,"Ciencias Sociales","Lic. Martínez",2,1,18,1,1,3,3,1,0,5,4,5,1
+15,"Ciencias Sociales","Dr. Pérez",3,4,23,4,4,5,2,5,9,2,5,5,5
+16,"Psicología","Lic. Rodríguez",3,1,30,4,4,2,1,2,1,1,5,3,4
+17,"Química","Dra. Jiménez",3,2,23,3,1,2,5,1,2,5,5,4,3
+18,"Economía","Dra. Gómez",5,2,26,3,1,5,3,3,0,2,2,4,2
+19,"Biología","Dr. Fernández",3,2,31,3,5,4,1,1,2,1,3,4,3
+20,"Economía","Dra. Gómez",5,2,17,1,5,3,4,3,9,3,5,3,5
+21,"Ciencias Sociales","Lic. Martínez",5,1,27,4,5,4,2,4,9,5,4,5,5
+22,"Psicología","Dra. Gómez",2,2,34,5,5,4,4,4,2,1,4,1,2
+23,"Arquitectura","Dra. Gómez",4,2,20,1,2,1,5,5,5,2,1,5,1
+24,"Ingeniería Civil","Lic. Martínez",2,5,29,3,1,2,3,4,1,1,3,5,3
+25,"Biología","Dr. Fernández",5,2,29,1,3,4,3,2,4,4,2,5,1
+26,"Derecho","Lic. López",4,3,37,5,1,3,5,5,10,4,3,5,3
+27,"Economía","Lic. Rodríguez",4,5,36,4,2,2,3,1,8,3,5,2,1
+28,"Biología","Lic. Martínez",3,2,18,5,3,2,5,2,1,3,1,2,2
+29,"Ciencias Sociales","Lic. Rodríguez",3,4,35,2,5,4,1,2,9,4,4,1,4
+30,"Ciencias Sociales","Lic. López",2,5,14,2,1,1,1,5,10,4,5,2,2
+31,"Economía","Dr. Fernández",1,4,19,3,4,2,2,3,2,5,3,1,3
+32,"Biología","Dr. Pérez",5,1,29,2,3,5,4,3,7,2,2,2,5
+33,"Derecho","Lic. Rodríguez",3,2,13,2,2,5,4,5,7,3,5,2,1
+34,"Biología","Dr. Fernández",3,2,27,1,2,2,3,4,7,2,4,4,3
+35,"Derecho","Dr. Sánchez",5,4,12,3,1,1,1,3,3,4,4,2,3
+36,"Ingeniería Informática","Lic. Rodríguez",5,4,29,2,2,3,3,1,9,4,1,2,5
+37,"Ciencias Sociales","Dra. Gómez",1,5,20,2,1,5,1,3,3,2,3,2,3
+38,"Medicina","Dr. Sánchez",1,1,30,4,3,3,2,1,9,2,5,4,2
+39,"Derecho","Dr. Pérez",5,2,17,5,3,5,1,2,9,4,3,1,2
+40,"Química","Lic. Rodríguez",4,3,36,1,3,2,3,1,4,3,4,2,5
+41,"Medicina","Lic. Martínez",2,2,12,3,1,1,3,3,0,2,1,2,5
+42,"Ingeniería Civil","Lic. López",1,5,26,5,5,3,4,4,6,2,2,2,4
+43,"Ciencias Sociales","Dr. Fernández",2,2,11,3,5,3,2,1,10,4,4,1,2
+44,"Ciencias Sociales","Dr. Fernández",2,1,28,2,5,3,3,3,0,5,5,4,3
+45,"Ingeniería Informática","Dr. Pérez",3,5,32,5,2,5,5,2,8,3,5,5,1
+46,"Derecho","Dr. Fernández",5,5,12,5,2,1,1,5,9,4,3,4,3
+47,"Ciencias Sociales","Dra. Jiménez",5,4,28,5,2,5,4,4,3,2,3,2,1
+48,"Economía","Dr. Fernández",4,4,38,1,5,5,3,5,10,3,4,3,5
+49,"Arquitectura","Lic. López",5,4,37,1,5,3,5,5,6,5,1,3,5
+50,"Ingeniería Informática","Dr. Pérez",2,4,40,5,1,4,3,1,3,1,1,3,2
+51,"Química","Lic. Martínez",1,1,32,5,3,3,2,1,5,2,5,1,4
+52,"Ingeniería Informática","Dr. Fernández",3,4,19,3,4,3,5,1,7,4,4,5,5
+53,"Ingeniería Informática","Lic. Rodríguez",1,5,29,5,3,3,1,1,9,3,1,1,1
+54,"Biología","Lic. López",2,4,33,3,3,4,2,1,0,2,5,1,3
+55,"Ingeniería Civil","Dr. Fernández",2,5,22,3,5,4,4,3,8,5,2,4,2
+56,"Ingeniería Informática","Dr. Fernández",4,3,26,1,4,1,5,2,9,4,4,2,1
+57,"Medicina","Dr. Fernández",4,2,27,5,1,3,2,4,2,5,5,2,3
+58,"Ingeniería Civil","Lic. López",1,4,29,1,5,4,4,4,6,4,3,3,4
+59,"Medicina","Lic. López",4,4,24,3,1,3,3,2,4,1,2,2,5
+60,"Arquitectura","Lic. López",4,3,35,3,4,2,4,1,10,1,5,2,2
+61,"Derecho","Dr. Sánchez",1,2,11,1,5,4,1,3,9,1,3,1,5
+62,"Ingeniería Informática","Dr. Fernández",3,3,12,3,4,5,2,5,2,2,5,3,2
+63,"Psicología","Lic. Rodríguez",2,3,15,4,1,3,3,3,8,2,2,2,1
+64,"Ciencias Sociales","Lic. López",3,5,15,1,1,2,4,2,0,2,2,4,5
+65,"Arquitectura","Lic. López",3,5,36,3,5,3,2,4,9,1,2,4,4
+66,"Ingeniería Informática","Dra. Gómez",5,4,27,5,5,4,3,5,0,1,2,1,3
+67,"Ciencias Sociales","Dr. Sánchez",1,2,18,4,3,3,1,5,4,1,3,1,4
+68,"Ciencias Sociales","Dr. Fernández",5,2,14,1,4,5,5,4,2,2,2,1,3
+69,"Biología","Lic. Rodríguez",5,3,23,5,1,4,3,5,4,1,2,1,3
+70,"Psicología","Dr. Sánchez",2,5,27,1,1,2,3,4,6,5,2,3,4
+71,"Química","Dr. Fernández",1,2,30,5,5,2,3,4,7,3,3,3,1
+72,"Ciencias Sociales","Dr. Sánchez",4,2,27,1,1,1,5,4,10,5,1,4,4
+73,"Psicología","Dra. Gómez",5,2,12,3,2,2,3,1,6,3,2,1,3
+74,"Biología","Dra. Jiménez",2,2,30,2,3,2,4,2,7,5,1,5,5
+75,"Psicología","Lic. Rodríguez",5,2,13,1,1,5,1,4,3,5,5,1,2
+76,"Biología","Dr. Sánchez",5,1,40,3,5,2,5,4,5,5,4,1,1
+77,"Ingeniería Informática","Dr. Fernández",1,2,26,5,2,4,1,4,2,5,1,5,3
+78,"Economía","Lic. Martínez",2,1,25,4,4,4,1,2,3,3,1,2,2
+79,"Derecho","Dr. Fernández",5,4,21,3,4,3,2,1,8,2,1,3,3
+80,"Derecho","Dr. Pérez",3,1,31,5,1,4,5,3,8,5,3,2,2
+81,"Química","Lic. Martínez",4,5,40,4,3,3,2,4,3,3,3,3,4
+82,"Psicología","Dra. Jiménez",5,1,28,2,5,1,5,3,5,5,5,5,2
+83,"Economía","Dr. Sánchez",3,5,20,4,4,1,5,2,9,5,3,1,2
+84,"Medicina","Lic. López",1,4,26,1,1,3,5,5,1,2,5,4,4
+85,"Economía","Lic. López",3,1,20,3,5,5,2,5,5,4,3,5,5
+86,"Medicina","Dra. Jiménez",2,1,26,2,1,3,3,4,10,5,3,5,4
+87,"Economía","Dr. Pérez",4,2,36,2,4,4,3,1,8,3,2,4,5
+88,"Ingeniería Informática","Dr. Pérez",4,4,31,5,5,5,4,2,10,1,4,3,5
+89,"Arquitectura","Lic. López",5,1,40,5,5,1,2,1,4,2,4,1,2
+90,"Ingeniería Civil","Dr. Fernández",1,1,12,1,3,5,1,5,5,4,2,5,5
+91,"Ingeniería Informática","Dr. Sánchez",4,3,19,1,5,4,3,5,8,4,4,4,4
+92,"Psicología","Dr. Fernández",4,2,21,1,1,1,3,2,5,2,4,4,4
+93,"Química","Lic. López",1,1,34,5,3,2,4,5,10,1,1,3,4
+94,"Psicología","Lic. Martínez",4,2,23,1,5,2,3,5,6,1,5,3,2
+95,"Química","Dr. Pérez",3,1,24,5,3,1,2,4,3,2,4,4,3
+96,"Ingeniería Civil","Lic. Martínez",3,4,27,2,5,2,1,3,4,4,3,1,1
+97,"Biología","Dr. Pérez",5,2,32,5,3,4,4,2,3,5,4,4,2
+98,"Biología","Dr. Pérez",5,2,11,3,1,2,1,2,0,4,4,5,5
+99,"Biología","Dr. Sánchez",1,2,19,4,4,4,5,1,10,1,3,5,3
+100,"Economía","Dr. Fernández",4,2,19,3,1,5,1,3,7,5,1,5,3
+101,"Ingeniería Informática","Lic. Rodríguez",1,5,33,1,5,1,5,5,4,2,2,2,2
+102,"Biología","Lic. López",3,2,27,2,4,1,5,5,8,5,4,3,1
+103,"Economía","Dr. Fernández",4,2,20,3,1,4,5,3,5,4,1,2,2
+104,"Derecho","Dr. Sánchez",2,4,21,3,3,5,2,5,8,2,5,5,3
+105,"Ingeniería Informática","Lic. López",1,4,14,2,3,2,1,3,8,4,1,4,2
+106,"Química","Dr. Sánchez",2,4,14,5,3,3,5,2,10,5,2,5,2
+107,"Derecho","Dr. Pérez",5,5,18,2,5,3,1,4,9,1,3,4,2
+108,"Biología","Dra. Gómez",3,2,38,1,4,1,4,3,3,1,2,1,4
+109,"Arquitectura","Lic. Rodríguez",1,4,12,4,2,1,2,3,5,5,2,2,4
+110,"Psicología","Dra. Jiménez",4,5,20,4,2,5,5,2,4,5,2,5,2
+111,"Ciencias Sociales","Lic. López",5,2,35,4,4,4,1,5,4,1,1,5,3
+112,"Biología","Lic. López",4,2,37,5,4,1,1,5,3,2,1,2,1
+113,"Ingeniería Informática","Lic. Rodríguez",4,4,30,4,4,4,5,5,4,3,3,3,3
+114,"Economía","Dr. Pérez",2,4,23,1,3,2,3,3,3,4,5,1,3
+115,"Ciencias Sociales","Dr. Pérez",1,1,26,3,4,2,5,3,9,5,1,2,4
+116,"Biología","Dr. Pérez",3,1,22,4,2,1,3,3,3,5,2,4,2
+117,"Medicina","Dr. Sánchez",3,2,21,2,4,2,5,4,2,1,2,2,1
+118,"Psicología","Dra. Jiménez",5,1,23,1,2,4,1,3,0,1,5,4,4
+119,"Química","Dr. Pérez",3,1,30,5,2,1,5,4,6,2,4,1,4
+120,"Arquitectura","Dra. Gómez",5,2,19,4,4,2,2,5,7,1,3,2,4
+121,"Biología","Dra. Jiménez",2,2,30,5,4,3,3,1,3,1,2,3,4
+122,"Arquitectura","Dra. Gómez",1,2,14,5,4,1,5,4,0,5,1,5,5
+123,"Ingeniería Civil","Dra. Jiménez",2,3,33,2,1,3,5,4,8,5,3,3,1
+124,"Química","Lic. Rodríguez",5,3,27,3,1,5,3,2,9,5,2,1,3
+125,"Arquitectura","Dr. Pérez",4,4,19,1,1,4,4,5,7,2,1,4,2
+126,"Ciencias Sociales","Dra. Gómez",2,3,31,5,1,2,1,2,3,1,5,4,1
+127,"Química","Dr. Sánchez",4,4,17,1,3,4,1,3,9,4,1,5,2
+128,"Ingeniería Informática","Dr. Sánchez",3,2,32,3,2,5,1,4,4,1,5,1,1
+129,"Arquitectura","Dr. Fernández",4,3,18,3,2,5,1,5,6,2,4,5,2
+130,"Química","Dr. Pérez",3,5,14,4,5,1,4,3,7,3,3,1,2
+131,"Psicología","Dra. Jiménez",1,2,38,1,1,1,3,3,6,1,2,2,2
+132,"Arquitectura","Lic. López",3,1,17,4,3,5,1,4,4,2,2,1,3
+133,"Arquitectura","Dr. Sánchez",5,2,35,4,4,3,1,1,1,4,2,4,4
+134,"Ingeniería Informática","Lic. López",5,1,25,3,5,4,2,5,8,1,2,3,4
+135,"Ingeniería Civil","Lic. Martínez",2,3,10,1,4,5,1,2,3,1,5,2,3
+136,"Economía","Lic. Rodríguez",5,4,27,4,1,2,3,2,6,3,4,3,3
+137,"Arquitectura","Lic. Rodríguez",1,2,21,5,4,3,4,5,4,1,1,1,3
+138,"Ciencias Sociales","Dra. Gómez",4,3,19,1,1,4,5,2,10,2,5,1,1
+139,"Biología","Dr. Fernández",1,5,25,4,4,3,1,1,2,1,1,1,3
+140,"Química","Dr. Fernández",3,4,40,5,4,5,3,2,6,5,2,1,3
+141,"Derecho","Dra. Gómez",2,4,10,1,5,4,5,5,1,1,5,4,5
+142,"Medicina","Dr. Pérez",3,1,22,3,2,1,2,2,9,1,2,3,4
+143,"Ingeniería Informática","Dra. Gómez",2,2,28,3,2,4,3,5,8,4,5,1,3
+144,"Ciencias Sociales","Lic. Martínez",1,5,28,5,4,1,3,5,3,5,2,2,2
+145,"Química","Dra. Gómez",3,3,28,5,4,1,3,2,5,4,4,4,5
+146,"Economía","Dra. Jiménez",5,5,37,4,1,2,1,5,1,4,2,4,5
+147,"Arquitectura","Lic. Martínez",5,4,35,4,3,2,2,3,8,3,1,5,3
+148,"Derecho","Lic. Rodríguez",3,5,31,3,3,2,5,5,7,1,5,1,4
+149,"Biología","Dr. Pérez",5,4,11,1,2,3,2,3,2,1,3,3,1
+150,"Ingeniería Civil","Lic. López",1,1,22,1,3,4,4,4,2,1,4,3,4
+151,"Química","Lic. Rodríguez",1,3,21,4,4,1,5,3,3,1,2,2,3
+152,"Química","Dr. Fernández",1,3,22,4,3,5,5,2,9,5,4,4,3
+153,"Economía","Dr. Pérez",1,4,21,3,5,3,2,1,8,1,4,2,5
+154,"Ciencias Sociales","Dr. Pérez",5,1,35,2,1,3,3,2,2,4,5,4,4
+155,"Química","Dr. Fernández",5,4,17,4,4,1,1,4,5,2,5,3,2
+156,"Medicina","Lic. Martínez",5,1,22,4,2,5,1,5,2,4,2,2,2
+157,"Derecho","Dra. Gómez",4,1,34,2,4,2,2,4,1,3,1,2,1
+158,"Ciencias Sociales","Dra. Jiménez",4,5,38,3,5,4,4,2,7,5,5,5,5
+159,"Biología","Dr. Pérez",4,2,27,4,4,4,3,3,1,2,3,5,4
+160,"Biología","Dra. Jiménez",5,3,24,1,2,3,2,5,0,3,4,4,5
+161,"Economía","Dr. Pérez",1,3,12,3,5,3,5,2,7,5,1,4,4
+162,"Economía","Dr. Sánchez",2,1,32,1,5,3,5,3,1,1,4,5,4
+163,"Química","Dra. Jiménez",3,4,17,1,1,1,2,5,3,3,2,2,3
+164,"Ingeniería Informática","Dra. Gómez",3,4,14,3,3,5,2,1,5,3,4,3,3
+165,"Biología","Dra. Jiménez",5,4,21,4,4,3,1,2,10,5,5,2,1
+166,"Economía","Dr. Sánchez",4,2,30,2,1,1,4,3,4,5,1,3,1
+167,"Ingeniería Civil","Dr. Fernández",5,2,34,3,1,4,4,1,7,1,2,1,4
+168,"Ciencias Sociales","Lic. López",2,1,33,3,4,3,1,4,8,2,1,3,5
+169,"Psicología","Lic. López",4,1,13,5,4,4,1,5,3,1,3,3,1
+170,"Economía","Lic. Rodríguez",1,5,31,3,4,5,1,4,6,2,2,5,5
+171,"Derecho","Dr. Pérez",2,4,16,5,4,4,5,1,7,5,5,1,1
+172,"Ingeniería Informática","Dr. Sánchez",4,3,17,3,5,1,1,2,5,1,2,1,4
+173,"Ciencias Sociales","Dra. Gómez",1,1,36,5,3,3,3,1,9,4,2,3,1
+174,"Arquitectura","Lic. Martínez",1,4,19,5,2,1,1,2,1,3,3,3,1
+175,"Economía","Lic. López",5,5,12,2,5,2,5,2,7,1,3,3,2
+176,"Biología","Dra. Gómez",1,1,20,4,2,4,3,3,10,5,2,4,2
+177,"Ciencias Sociales","Lic. López",1,3,31,2,5,1,2,5,10,2,5,3,4
+178,"Biología","Lic. López",2,4,18,1,2,3,2,2,4,3,5,2,5
+179,"Economía","Dra. Jiménez",5,2,12,3,1,4,2,5,9,3,2,3,4
+180,"Arquitectura","Dr. Sánchez",5,2,27,5,5,4,5,2,2,4,3,1,3
+181,"Química","Dr. Sánchez",3,4,37,2,4,3,5,2,1,3,1,3,3
+182,"Ciencias Sociales","Dra. Jiménez",3,1,15,4,2,3,3,5,2,3,1,1,1
+183,"Ciencias Sociales","Dra. Jiménez",4,4,26,4,1,5,5,2,10,4,4,1,5
+184,"Ciencias Sociales","Dra. Gómez",1,2,24,4,2,3,5,5,8,3,2,5,5
+185,"Derecho","Dra. Jiménez",5,5,40,3,1,5,1,5,0,2,5,3,5
+186,"Biología","Lic. López",2,2,40,5,3,4,5,5,0,2,5,5,4
+187,"Ingeniería Informática","Dr. Fernández",5,2,25,3,3,1,2,2,10,2,4,4,2
+188,"Ingeniería Civil","Lic. López",4,5,11,2,5,5,1,1,8,4,5,2,2
+189,"Economía","Lic. López",1,2,20,3,3,3,3,4,9,3,5,2,4
+190,"Economía","Dra. Gómez",5,4,26,2,1,3,4,5,2,1,4,5,4
+191,"Ingeniería Civil","Lic. Martínez",5,1,25,4,1,4,3,1,3,3,4,5,2
+192,"Economía","Lic. Martínez",2,3,38,5,2,3,5,5,8,2,1,2,5
+193,"Ingeniería Civil","Dr. Fernández",5,3,12,2,3,3,2,1,5,2,4,4,1
+194,"Economía","Dr. Fernández",3,2,16,5,1,2,1,1,4,4,4,2,3
+195,"Derecho","Lic. Rodríguez",3,3,24,2,1,2,2,1,6,3,2,2,4
+196,"Biología","Lic. Rodríguez",5,5,11,5,1,4,1,4,8,4,3,1,4
+197,"Derecho","Lic. López",1,1,25,3,1,5,1,3,3,4,1,3,1
+198,"Economía","Dr. Pérez",5,4,11,2,5,1,1,1,1,5,5,4,4
+199,"Ciencias Sociales","Lic. Martínez",1,3,21,1,5,2,5,5,10,1,2,4,1
+200,"Arquitectura","Lic. Martínez",5,3,11,5,1,5,1,4,1,3,2,5,4
+201,"Ingeniería Informática","Dra. Jiménez",5,2,36,1,1,4,5,5,4,4,5,3,5
+202,"Medicina","Lic. Martínez",2,4,37,5,5,1,1,3,4,5,5,2,4
+203,"Ingeniería Civil","Lic. Martínez",4,4,33,5,4,2,3,3,6,4,3,3,4
+204,"Derecho","Lic. López",4,1,18,1,3,3,5,2,4,5,5,1,5
+205,"Ciencias Sociales","Dr. Fernández",3,2,23,2,5,2,1,2,9,5,4,5,4
+206,"Arquitectura","Lic. Rodríguez",1,4,34,2,4,5,1,4,4,2,5,4,4
+207,"Psicología","Dr. Sánchez",5,1,14,4,5,5,4,1,3,3,4,3,3
+208,"Ciencias Sociales","Lic. Rodríguez",2,1,15,3,2,3,4,4,5,3,3,1,5
+209,"Ingeniería Civil","Dr. Pérez",1,2,13,5,5,2,3,3,6,1,4,1,4
+210,"Medicina","Lic. Martínez",4,3,24,3,3,4,1,4,0,3,2,1,4
+211,"Arquitectura","Dra. Jiménez",1,5,28,4,2,4,4,2,7,4,4,3,2
+212,"Economía","Dra. Gómez",5,3,40,1,4,5,1,2,10,4,4,3,3
+213,"Ingeniería Civil","Dr. Pérez",2,2,19,2,2,3,2,1,3,4,1,5,5
+214,"Derecho","Lic. Martínez",5,5,28,2,4,5,3,2,10,1,1,3,1
+215,"Derecho","Lic. López",1,5,39,2,3,4,5,4,7,1,1,4,1
+216,"Ciencias Sociales","Lic. Rodríguez",5,2,17,5,4,4,3,5,4,2,3,3,1
+217,"Química","Dra. Jiménez",5,4,24,5,3,1,1,3,3,4,2,4,2
+218,"Biología","Dr. Pérez",1,4,12,5,4,3,5,5,1,4,3,2,1
+219,"Ciencias Sociales","Dra. Gómez",4,1,16,1,4,2,5,5,10,3,4,1,3
+220,"Derecho","Dra. Jiménez",4,2,18,1,3,3,5,5,8,3,5,3,5
+221,"Medicina","Dra. Gómez",2,1,12,4,1,3,1,4,4,1,2,4,1
+222,"Economía","Dra. Gómez",5,5,13,4,3,2,2,4,5,1,3,4,3
+223,"Ingeniería Informática","Lic. Martínez",2,3,28,3,3,5,4,3,2,1,4,5,3
+224,"Biología","Lic. Rodríguez",4,1,22,3,1,3,1,3,10,5,5,3,2
+225,"Ciencias Sociales","Lic. Martínez",2,5,16,1,3,4,5,5,7,4,5,1,3
+226,"Ingeniería Civil","Dr. Fernández",1,1,21,5,5,1,4,2,1,5,5,2,3
+227,"Derecho","Lic. López",1,3,16,1,1,3,4,4,10,1,4,3,3
+228,"Derecho","Dra. Jiménez",3,1,32,5,2,5,5,1,4,4,1,4,5
+229,"Química","Lic. López",2,2,22,2,2,3,2,3,3,5,1,1,3
+230,"Derecho","Dr. Pérez",4,2,36,2,4,4,2,2,8,3,1,3,4
+231,"Biología","Lic. Rodríguez",2,2,16,2,1,4,3,2,4,4,3,2,1
+232,"Arquitectura","Lic. López",1,4,40,1,4,4,5,2,1,2,1,4,5
+233,"Medicina","Lic. Rodríguez",5,1,25,1,3,2,5,3,1,3,2,3,4
+234,"Ingeniería Civil","Lic. López",3,4,15,3,5,2,2,2,1,1,3,5,3
+235,"Ingeniería Civil","Dra. Jiménez",3,1,17,5,5,2,3,1,2,4,5,4,2
+236,"Medicina","Dr. Pérez",2,1,30,2,3,3,1,2,5,3,3,5,3
+237,"Ingeniería Civil","Dr. Fernández",5,3,37,1,3,4,3,1,5,5,4,4,2
+238,"Medicina","Dr. Fernández",5,4,39,4,2,4,2,1,2,1,3,3,1
+239,"Química","Dr. Sánchez",4,3,13,1,5,2,1,2,4,4,4,5,3
+240,"Ingeniería Civil","Dra. Jiménez",1,3,13,4,1,1,3,3,4,1,1,3,5
+241,"Psicología","Lic. Rodríguez",3,4,18,5,5,5,3,3,7,2,1,2,2
+242,"Medicina","Lic. López",2,1,27,2,5,3,2,5,10,2,5,1,1
+243,"Medicina","Lic. López",3,2,23,1,1,4,4,3,0,4,4,4,3
+244,"Derecho","Lic. López",1,1,11,5,2,4,2,2,2,3,2,2,5
+245,"Ciencias Sociales","Dr. Pérez",3,4,24,1,3,5,1,3,2,4,1,2,5
+246,"Economía","Lic. Martínez",5,1,16,4,2,5,4,3,8,2,2,3,2
+247,"Ingeniería Informática","Lic. Rodríguez",2,4,21,2,3,3,2,4,8,3,2,2,5
+248,"Economía","Dr. Fernández",3,4,38,5,3,1,5,5,6,3,1,5,3
+249,"Economía","Lic. López",1,4,12,3,5,2,1,1,5,1,5,3,5
+250,"Ingeniería Informática","Lic. Martínez",4,5,37,1,3,2,3,1,10,1,4,1,2
+251,"Psicología","Dr. Pérez",3,3,10,3,4,3,2,1,5,4,2,2,5
+252,"Arquitectura","Lic. Rodríguez",2,3,36,5,1,1,3,3,10,4,5,1,2
+253,"Psicología","Lic. Martínez",3,4,40,3,3,2,1,2,0,2,1,4,5
+254,"Biología","Dr. Pérez",5,4,21,3,4,2,2,4,9,2,2,2,1
+255,"Psicología","Dra. Jiménez",3,1,18,5,4,5,4,5,10,3,1,3,1
+256,"Medicina","Lic. Rodríguez",5,3,13,1,4,3,3,3,2,5,1,5,5
+257,"Biología","Dra. Jiménez",4,1,18,5,2,1,2,2,0,2,3,4,5
+258,"Psicología","Dr. Pérez",3,1,10,2,5,2,3,1,4,4,2,4,3
+259,"Ciencias Sociales","Lic. López",4,4,27,3,5,3,2,5,4,2,2,1,4
+260,"Biología","Lic. Martínez",4,5,26,3,3,1,2,4,5,3,3,5,2
+261,"Ciencias Sociales","Lic. Rodríguez",5,3,18,3,4,3,3,3,6,5,3,2,1
+262,"Arquitectura","Dr. Sánchez",5,1,36,1,2,1,1,1,10,4,5,1,5
+263,"Medicina","Lic. Rodríguez",2,5,28,2,5,3,2,1,6,3,4,3,5
+264,"Ingeniería Informática","Lic. Martínez",4,1,12,4,4,2,1,4,4,3,1,1,1
+265,"Economía","Lic. López",1,5,16,2,4,3,1,1,8,3,5,4,4
+266,"Ciencias Sociales","Dra. Jiménez",2,1,33,1,4,1,2,5,9,3,4,4,5
+267,"Biología","Lic. Rodríguez",2,2,21,2,5,2,5,3,1,4,2,5,4
+268,"Derecho","Lic. Rodríguez",3,5,13,2,5,3,5,1,4,4,5,5,2
+269,"Ingeniería Civil","Lic. Martínez",4,1,25,2,4,4,5,1,7,1,3,3,2
+270,"Psicología","Lic. Rodríguez",2,5,27,4,4,1,1,3,2,5,2,5,4
+271,"Medicina","Dr. Fernández",3,1,22,2,3,5,2,3,9,1,4,1,5
+272,"Derecho","Dr. Fernández",2,4,15,3,5,3,5,2,3,2,4,4,4
+273,"Ingeniería Civil","Dr. Fernández",5,4,26,2,3,5,1,3,5,5,5,4,5
+274,"Psicología","Lic. López",5,4,38,1,3,5,3,3,7,2,2,4,3
+275,"Ciencias Sociales","Dra. Jiménez",5,5,31,4,1,2,2,2,4,4,5,3,3
+276,"Medicina","Dr. Fernández",4,2,12,1,1,4,3,3,1,3,2,3,1
+277,"Ingeniería Informática","Lic. Martínez",2,2,28,5,1,5,3,3,3,2,3,5,5
+278,"Psicología","Dr. Fernández",3,5,24,5,5,1,3,5,10,1,5,1,5
+279,"Psicología","Lic. Rodríguez",4,3,34,5,1,2,5,2,5,1,4,2,3
+280,"Ciencias Sociales","Dra. Gómez",2,5,30,3,3,1,5,5,1,2,2,5,3
+281,"Medicina","Dr. Fernández",2,5,20,4,3,3,3,1,3,2,5,5,5
+282,"Ingeniería Civil","Lic. López",5,5,13,1,2,5,1,3,5,3,1,3,2
+283,"Ingeniería Informática","Dr. Pérez",4,1,22,2,1,4,4,5,2,5,2,5,2
+284,"Economía","Lic. López",5,2,12,5,2,1,3,2,6,4,2,2,3
+285,"Química","Dra. Jiménez",2,2,14,1,4,2,4,3,5,3,2,5,3
+286,"Economía","Lic. Martínez",3,1,12,3,2,4,1,1,8,1,1,1,1
+287,"Economía","Lic. Martínez",1,3,32,2,5,3,1,1,0,2,1,4,4
+288,"Arquitectura","Dra. Jiménez",3,4,12,4,2,5,1,5,3,4,1,2,5
+289,"Ingeniería Informática","Dra. Gómez",3,2,23,5,5,1,5,2,10,3,3,2,1
+290,"Arquitectura","Lic. López",5,2,21,4,3,2,1,2,3,4,3,4,5
+291,"Arquitectura","Lic. López",1,3,28,1,5,5,2,2,3,4,3,3,1
+292,"Ciencias Sociales","Dr. Pérez",3,5,26,5,3,4,3,5,1,5,4,3,4
+293,"Química","Dra. Gómez",1,3,13,4,4,3,5,5,2,1,2,4,4
+294,"Biología","Dr. Fernández",5,5,31,3,3,3,4,5,2,3,5,2,1
+295,"Economía","Lic. Rodríguez",4,3,20,3,2,4,1,4,10,5,5,5,1
+296,"Ingeniería Civil","Lic. López",4,4,30,2,3,4,4,5,0,3,5,4,2
+297,"Medicina","Dra. Jiménez",1,5,19,4,3,5,1,5,8,2,1,2,1
+298,"Química","Dr. Fernández",5,3,16,4,3,2,3,3,9,4,4,3,5
+299,"Psicología","Dra. Jiménez",1,2,39,4,1,4,5,2,4,3,1,5,5
+300,"Economía","Dra. Gómez",3,1,11,4,5,2,5,4,0,3,1,3,1
+301,"Biología","Dr. Fernández",3,4,22,4,3,2,2,1,8,3,5,2,5
+302,"Ingeniería Civil","Dr. Fernández",4,4,33,2,1,1,4,4,7,3,1,2,3
+303,"Medicina","Dra. Gómez",4,3,35,2,1,1,2,1,8,1,5,4,5
+304,"Psicología","Dr. Pérez",3,4,10,4,4,4,3,4,4,2,3,2,1
+305,"Psicología","Dr. Pérez",3,1,19,3,1,4,4,4,9,1,3,1,4
+306,"Ingeniería Informática","Lic. Martínez",2,5,30,2,4,2,2,3,3,3,4,3,4
+307,"Economía","Dr. Pérez",3,5,21,4,1,5,5,4,5,1,1,2,1
+308,"Derecho","Lic. Martínez",5,1,22,3,2,5,2,5,6,1,1,2,2
+309,"Arquitectura","Dr. Fernández",1,4,39,1,3,5,5,4,8,5,3,3,1
+310,"Medicina","Dr. Pérez",5,2,23,5,2,5,4,2,1,4,4,4,4
+311,"Ingeniería Civil","Dr. Sánchez",3,3,20,1,4,4,1,3,2,2,3,4,3
+312,"Ingeniería Civil","Dr. Pérez",2,1,24,5,4,5,4,1,1,4,4,3,2
+313,"Derecho","Lic. López",5,5,34,5,2,2,2,3,5,3,3,1,4
+314,"Medicina","Lic. Martínez",3,2,27,3,1,5,1,4,4,1,3,3,1
+315,"Medicina","Lic. Martínez",5,2,18,5,1,5,5,5,2,3,5,1,3
+316,"Psicología","Dr. Pérez",1,4,33,3,3,2,4,1,1,2,5,2,1
+317,"Derecho","Dr. Sánchez",4,4,25,4,3,3,2,3,8,5,5,1,3
+318,"Ingeniería Informática","Lic. Rodríguez",4,2,35,5,4,5,2,5,0,5,1,2,1
+319,"Economía","Dr. Pérez",3,2,35,4,4,1,4,1,0,4,5,2,3
+320,"Psicología","Dr. Sánchez",2,4,29,5,5,1,4,3,6,5,1,3,5
+321,"Psicología","Lic. López",4,5,31,3,4,1,2,4,10,4,3,2,5
+322,"Ingeniería Civil","Dr. Pérez",1,3,37,4,1,1,5,4,8,5,2,3,1
+323,"Química","Dr. Pérez",4,4,22,1,5,2,1,3,0,3,1,3,3
+324,"Ingeniería Civil","Lic. López",3,2,32,5,1,3,3,5,8,1,4,3,3
+325,"Arquitectura","Lic. López",2,3,17,1,3,5,3,4,10,2,3,2,2
+326,"Química","Lic. Rodríguez",4,1,18,1,5,5,3,5,1,3,4,4,5
+327,"Economía","Dra. Gómez",5,2,18,2,5,3,5,1,7,4,2,5,3
+328,"Economía","Dr. Pérez",2,5,16,1,2,2,5,4,7,5,1,4,3
+329,"Química","Lic. Martínez",3,4,11,2,5,4,5,1,2,2,3,4,2
+330,"Biología","Dr. Fernández",3,3,15,4,4,4,3,2,0,3,3,2,2
+331,"Medicina","Dr. Sánchez",5,2,10,2,2,3,3,4,9,2,4,1,1
+332,"Ingeniería Civil","Lic. Martínez",5,5,21,1,5,1,2,4,1,1,2,3,1
+333,"Arquitectura","Dra. Gómez",4,1,14,3,5,1,4,5,8,2,1,2,1
+334,"Ciencias Sociales","Lic. Martínez",2,1,37,2,3,4,4,2,8,2,5,3,4
+335,"Derecho","Dra. Jiménez",1,1,17,5,2,1,3,1,8,2,2,4,5
+336,"Química","Dr. Pérez",1,3,33,3,5,5,5,2,9,4,3,4,3
+337,"Medicina","Lic. Rodríguez",5,2,29,2,4,3,1,5,9,2,3,5,3
+338,"Derecho","Dr. Sánchez",4,1,26,2,4,4,3,1,1,4,5,2,1
+339,"Medicina","Lic. López",4,2,18,5,5,5,2,4,2,1,4,1,1
+340,"Ingeniería Informática","Lic. Rodríguez",4,4,10,1,4,3,5,1,7,2,2,3,3
+341,"Economía","Dra. Jiménez",1,1,11,2,3,1,1,2,6,5,4,1,3
+342,"Economía","Dr. Pérez",1,4,11,2,2,2,1,5,9,5,3,2,1
+343,"Ciencias Sociales","Lic. Rodríguez",2,5,37,2,4,1,1,1,0,3,2,1,5
+344,"Biología","Dr. Pérez",3,3,29,1,5,2,4,3,10,2,1,1,2
+345,"Ingeniería Informática","Lic. Rodríguez",1,2,19,4,1,3,5,2,8,2,5,5,2
+346,"Psicología","Lic. Rodríguez",4,5,39,2,5,4,3,2,4,3,5,4,4
+347,"Química","Lic. Martínez",4,5,10,2,2,1,2,2,4,4,4,1,5
+348,"Biología","Dra. Gómez",2,3,25,5,3,4,1,2,4,5,1,1,2
+349,"Arquitectura","Dr. Pérez",3,2,30,3,3,5,1,3,8,5,1,2,5
+350,"Química","Dr. Sánchez",1,1,17,4,5,1,5,4,2,1,3,2,4
+351,"Psicología","Dra. Gómez",3,3,17,5,5,4,4,2,5,1,5,1,3
+352,"Química","Lic. López",3,2,11,5,4,2,4,5,9,3,2,4,2
+353,"Ingeniería Informática","Dr. Pérez",1,1,16,1,5,1,2,5,4,5,3,4,3
+354,"Arquitectura","Dra. Jiménez",4,1,24,4,2,5,1,1,5,4,2,2,1
+355,"Biología","Lic. Martínez",3,4,16,4,5,3,5,1,2,1,1,4,2
+356,"Economía","Dr. Sánchez",1,3,25,1,4,1,1,3,6,4,1,4,3
+357,"Química","Dra. Gómez",4,2,21,2,1,3,1,2,2,2,3,5,5
+358,"Arquitectura","Lic. Rodríguez",4,3,20,5,2,1,4,1,3,3,4,3,4
+359,"Economía","Dra. Gómez",1,4,10,3,1,4,1,4,8,2,5,1,4
+360,"Ciencias Sociales","Dr. Sánchez",5,2,10,5,3,5,5,5,5,1,2,3,2
+361,"Ingeniería Informática","Dr. Pérez",3,4,22,3,4,1,3,1,9,2,2,3,4
+362,"Psicología","Lic. López",1,1,29,5,1,1,2,5,5,2,4,4,3
+363,"Arquitectura","Dr. Pérez",5,5,39,3,2,2,1,2,1,3,3,1,5
+364,"Ciencias Sociales","Lic. Rodríguez",1,3,10,2,5,2,5,4,0,1,2,4,1
+365,"Ciencias Sociales","Lic. Rodríguez",1,3,14,4,1,4,1,4,6,4,2,3,1
+366,"Arquitectura","Lic. Rodríguez",4,4,11,4,3,3,5,3,8,4,2,2,2
+367,"Arquitectura","Dra. Jiménez",3,1,28,3,2,2,5,1,6,5,2,5,3
+368,"Ingeniería Informática","Dr. Fernández",4,5,29,1,4,3,4,4,10,4,3,3,4
+369,"Derecho","Lic. Rodríguez",4,3,10,4,5,1,4,3,9,3,2,3,5
+370,"Ingeniería Civil","Dr. Pérez",5,1,26,2,4,4,3,4,7,1,1,5,5
+371,"Química","Dr. Fernández",3,3,13,3,3,2,2,4,2,2,1,2,4
+372,"Biología","Lic. Rodríguez",2,1,31,1,2,3,3,2,6,5,3,5,2
+373,"Derecho","Dra. Gómez",3,1,13,1,2,5,3,4,7,1,1,3,2
+374,"Ingeniería Informática","Dr. Sánchez",5,3,31,3,2,1,3,3,6,5,3,3,1
+375,"Psicología","Dra. Jiménez",4,3,23,2,2,5,5,1,8,1,3,2,4
+376,"Química","Lic. López",4,3,34,5,3,5,3,3,0,1,4,1,1
+377,"Economía","Lic. Rodríguez",3,4,29,3,3,1,1,5,0,3,4,5,1
+378,"Derecho","Dr. Sánchez",5,4,13,1,5,2,5,4,8,1,1,4,1
+379,"Biología","Lic. Rodríguez",4,4,31,3,4,3,2,5,1,1,3,5,3
+380,"Arquitectura","Lic. López",2,1,19,5,3,1,2,1,10,4,4,2,2
+381,"Ciencias Sociales","Lic. Martínez",4,1,27,1,5,2,5,5,3,4,1,5,3
+382,"Psicología","Dr. Pérez",1,3,23,4,5,4,3,2,3,1,1,2,2
+383,"Economía","Lic. López",2,1,33,4,3,5,2,2,10,4,4,4,3
+384,"Biología","Dra. Jiménez",1,2,10,1,1,1,2,1,2,3,3,3,1
+385,"Medicina","Dr. Pérez",1,3,35,2,3,1,1,5,8,2,3,2,2
+386,"Ciencias Sociales","Dr. Fernández",5,1,33,3,1,3,2,3,1,3,4,2,3
+387,"Ingeniería Informática","Lic. Rodríguez",5,5,30,2,1,3,2,1,2,2,2,3,3
+388,"Arquitectura","Lic. Rodríguez",3,3,13,4,3,2,2,3,10,1,2,1,2
+389,"Ingeniería Informática","Dra. Jiménez",5,5,17,3,1,2,3,2,3,2,4,4,1
+390,"Medicina","Dr. Sánchez",5,2,39,3,2,2,3,5,1,2,5,5,4
+391,"Medicina","Lic. López",3,1,35,1,3,3,5,5,4,1,1,1,2
+392,"Química","Dr. Pérez",5,1,25,4,5,5,3,3,2,2,4,2,3
+393,"Química","Dra. Jiménez",1,2,37,3,4,2,2,1,6,5,3,5,5
+394,"Derecho","Dr. Sánchez",2,3,27,3,2,5,1,1,8,3,4,4,2
+395,"Ciencias Sociales","Lic. López",4,4,31,2,2,5,2,5,4,1,3,1,1
+396,"Biología","Dra. Jiménez",3,5,39,3,3,2,3,1,8,4,2,3,5
+397,"Psicología","Dr. Sánchez",5,3,11,1,1,4,1,2,7,1,1,4,4
+398,"Biología","Dr. Pérez",3,3,39,5,2,3,1,1,3,1,4,2,5
+399,"Química","Lic. Rodríguez",5,2,35,4,4,4,4,1,6,3,4,1,1
+400,"Economía","Lic. López",3,1,23,1,2,5,3,2,7,2,2,1,2
+401,"Derecho","Dr. Fernández",4,1,10,1,1,4,3,5,4,1,5,3,1
+402,"Ingeniería Civil","Dr. Pérez",1,5,17,2,1,5,5,1,1,4,4,3,5
+403,"Biología","Dra. Jiménez",2,4,38,3,2,2,5,5,3,5,5,1,3
+404,"Ingeniería Informática","Dr. Pérez",4,2,40,3,3,3,4,2,0,2,3,5,5
+405,"Química","Lic. Rodríguez",2,5,13,3,2,3,2,3,1,4,1,4,2
+406,"Arquitectura","Dra. Gómez",4,1,28,1,1,1,2,3,3,3,2,4,4
+407,"Ingeniería Informática","Lic. Martínez",4,5,40,1,1,2,1,5,3,5,5,1,5
+408,"Ingeniería Civil","Dra. Gómez",2,5,23,2,2,2,2,5,2,3,4,1,2
+409,"Psicología","Lic. Martínez",3,3,20,2,5,5,1,2,0,5,2,4,2
+410,"Arquitectura","Lic. López",4,2,22,3,5,3,5,3,6,3,1,1,2
+411,"Ingeniería Civil","Dr. Sánchez",2,5,32,3,4,3,3,5,10,4,1,5,4
+412,"Derecho","Dra. Gómez",4,3,38,1,5,1,3,5,9,4,1,3,3
+413,"Arquitectura","Dr. Fernández",3,4,27,3,5,2,1,3,0,3,3,1,5
+414,"Medicina","Lic. Martínez",5,2,10,5,5,1,2,2,0,1,2,3,4
+415,"Biología","Dra. Jiménez",2,5,33,2,5,5,5,1,5,5,2,4,4
+416,"Psicología","Lic. Rodríguez",4,4,23,1,5,1,1,4,8,5,1,1,5
+417,"Economía","Dr. Pérez",1,2,40,2,3,2,5,1,7,5,3,5,2
+418,"Psicología","Dra. Jiménez",4,2,26,2,4,3,1,5,10,1,3,4,4
+419,"Ingeniería Civil","Lic. Martínez",5,4,14,3,1,5,4,5,7,5,5,3,4
+420,"Biología","Dr. Pérez",4,1,32,3,5,5,2,5,2,3,4,1,4
+421,"Ingeniería Informática","Dr. Sánchez",3,2,11,4,4,5,2,4,0,5,5,3,3
+422,"Arquitectura","Dr. Pérez",1,4,39,2,2,2,3,3,1,5,5,3,3
+423,"Derecho","Dra. Gómez",2,4,39,5,3,4,3,5,5,4,3,3,3
+424,"Biología","Dra. Gómez",5,5,31,5,2,1,2,4,1,3,1,1,5
+425,"Psicología","Dr. Pérez",5,2,33,4,4,1,4,3,6,1,1,4,3
+426,"Medicina","Lic. López",5,3,21,1,2,1,3,3,4,5,2,3,5
+427,"Química","Dr. Pérez",5,2,35,5,1,1,3,3,8,3,3,2,3
+428,"Arquitectura","Dra. Gómez",4,3,28,5,4,3,5,4,3,2,5,4,1
+429,"Ingeniería Informática","Lic. López",3,4,30,1,2,4,3,3,8,5,4,1,4
+430,"Economía","Dr. Pérez",4,2,34,2,3,2,3,3,1,4,2,4,5
+431,"Biología","Dr. Pérez",3,4,17,3,4,3,1,4,7,4,2,1,2
+432,"Ingeniería Informática","Lic. Rodríguez",1,2,30,4,1,5,2,2,1,3,4,4,5
+433,"Ingeniería Civil","Lic. Rodríguez",4,2,15,3,2,3,1,2,4,2,4,4,2
+434,"Ingeniería Informática","Dr. Sánchez",4,4,32,1,4,2,5,3,6,3,5,1,4
+435,"Química","Dra. Gómez",4,2,23,5,4,4,2,3,1,4,3,3,3
+436,"Psicología","Dr. Sánchez",4,1,10,5,5,4,2,3,1,3,4,2,2
+437,"Medicina","Lic. Rodríguez",3,3,26,3,4,3,4,1,2,1,4,2,2
+438,"Psicología","Dr. Fernández",2,2,19,4,3,5,5,4,7,5,5,5,2
+439,"Ingeniería Civil","Dra. Jiménez",2,2,18,4,3,5,1,5,7,4,2,4,4
+440,"Medicina","Dra. Jiménez",3,3,40,4,4,1,1,4,4,3,2,5,2
+441,"Medicina","Lic. Martínez",3,3,17,3,1,4,5,5,3,2,2,5,3
+442,"Química","Dr. Pérez",5,2,19,4,4,4,3,1,4,4,2,3,5
+443,"Economía","Lic. Martínez",1,2,28,2,5,5,4,3,8,1,4,1,2
+444,"Arquitectura","Dra. Gómez",1,1,11,4,1,2,5,4,5,3,2,4,5
+445,"Ciencias Sociales","Dr. Pérez",4,4,28,3,4,3,3,5,6,5,1,1,3
+446,"Biología","Dr. Fernández",3,5,16,3,5,3,1,2,8,2,3,2,3
+447,"Química","Dr. Sánchez",2,1,15,5,3,3,2,1,4,2,3,5,3
+448,"Psicología","Lic. Rodríguez",4,1,11,1,4,3,1,5,5,5,5,5,5
+449,"Ingeniería Informática","Dr. Fernández",5,1,16,5,2,1,4,4,5,5,3,1,4
+450,"Ingeniería Informática","Dr. Sánchez",2,4,10,5,2,5,1,5,6,1,3,4,2
+451,"Química","Dra. Jiménez",2,2,37,2,3,4,5,3,9,3,2,1,4
+452,"Ingeniería Civil","Lic. López",3,2,39,1,2,2,5,4,7,1,5,5,5
+453,"Medicina","Dra. Gómez",2,4,19,4,3,5,2,5,2,4,5,3,2
+454,"Derecho","Dr. Sánchez",3,4,25,2,3,4,2,5,9,5,4,3,2
+455,"Química","Dr. Fernández",4,5,17,2,4,3,2,4,10,2,5,4,4
+456,"Química","Dr. Sánchez",4,4,38,5,3,4,4,2,4,1,1,4,4
+457,"Biología","Lic. López",1,3,15,2,3,4,5,3,8,2,4,4,1
+458,"Derecho","Lic. López",4,1,19,2,5,3,1,5,8,3,1,5,4
+459,"Ingeniería Civil","Lic. Rodríguez",5,2,20,2,2,4,1,4,8,5,3,5,4
+460,"Economía","Dra. Gómez",4,5,24,5,2,2,2,5,2,5,4,5,2
+461,"Ciencias Sociales","Dr. Sánchez",2,4,37,4,4,1,2,2,5,4,3,4,5
+462,"Ciencias Sociales","Dra. Jiménez",3,3,31,5,5,1,5,2,5,1,3,3,1
+463,"Biología","Dr. Pérez",4,1,27,2,5,2,4,2,8,4,5,1,3
+464,"Economía","Lic. Rodríguez",4,5,22,1,1,5,3,5,8,4,4,2,3
+465,"Arquitectura","Lic. Rodríguez",4,4,19,5,5,1,1,5,0,3,1,4,1
+466,"Química","Lic. Rodríguez",2,3,28,4,3,2,5,2,6,3,5,1,5
+467,"Arquitectura","Dr. Fernández",2,3,40,4,1,3,4,2,2,5,5,5,3
+468,"Psicología","Lic. Martínez",2,1,11,5,5,4,1,3,2,5,1,5,5
+469,"Biología","Lic. Martínez",2,5,38,4,3,3,2,3,9,4,5,1,3
+470,"Ingeniería Civil","Lic. Martínez",3,5,12,1,3,5,1,2,5,5,1,1,1
+471,"Ingeniería Informática","Lic. Martínez",1,2,32,2,1,1,5,4,10,4,2,3,1
+472,"Economía","Lic. Rodríguez",5,5,31,1,2,3,4,2,7,5,3,2,3
+473,"Economía","Dra. Gómez",5,3,30,4,4,5,2,4,4,5,5,4,5
+474,"Ingeniería Civil","Dra. Jiménez",1,2,26,4,4,3,4,2,3,1,2,2,3
+475,"Biología","Lic. Rodríguez",5,2,18,3,1,1,3,4,8,4,5,1,3
+476,"Derecho","Dra. Gómez",1,4,13,2,3,5,2,4,4,1,2,3,2
+477,"Ingeniería Informática","Dr. Sánchez",1,4,14,1,1,5,3,5,8,2,5,5,2
+478,"Economía","Lic. Rodríguez",5,3,37,4,4,4,5,2,9,1,5,5,2
+479,"Ingeniería Informática","Lic. Rodríguez",4,2,27,2,4,4,2,1,3,3,4,1,5
+480,"Ciencias Sociales","Lic. Martínez",2,4,38,1,3,3,3,1,0,3,1,3,5
+481,"Química","Dr. Sánchez",4,1,23,1,3,1,3,4,2,5,5,1,4
+482,"Ingeniería Civil","Lic. López",1,5,21,4,4,2,2,5,1,4,5,2,4
+483,"Ingeniería Informática","Dra. Jiménez",3,2,27,5,4,5,3,2,8,2,3,5,1
+484,"Medicina","Dr. Pérez",3,2,27,2,2,2,3,2,4,2,3,3,5
+485,"Química","Dra. Gómez",3,4,10,4,3,1,2,1,0,5,2,3,4
+486,"Economía","Dr. Sánchez",2,1,32,5,1,2,2,3,7,1,5,5,2
+487,"Química","Dra. Gómez",4,3,21,1,1,5,2,1,6,3,4,4,4
+488,"Ciencias Sociales","Lic. Martínez",3,5,24,3,5,2,3,3,9,3,4,4,1
+489,"Química","Lic. Martínez",1,4,18,3,2,2,1,2,10,5,2,3,3
+490,"Ciencias Sociales","Dr. Sánchez",5,5,16,1,5,5,1,1,10,3,5,4,4
+491,"Ciencias Sociales","Dr. Pérez",2,2,26,4,2,3,2,1,1,3,4,5,1
+492,"Arquitectura","Dr. Pérez",5,4,40,4,5,5,2,4,6,4,4,4,4
+493,"Ingeniería Civil","Dra. Gómez",5,1,40,1,2,2,3,4,6,2,1,3,4
+494,"Psicología","Dra. Gómez",3,3,16,5,2,5,4,1,7,1,3,5,5
+495,"Química","Dra. Gómez",5,2,34,3,4,5,2,1,6,3,5,3,3
+496,"Medicina","Lic. López",4,3,28,1,2,2,3,2,2,2,2,2,5
+497,"Ingeniería Civil","Dr. Sánchez",5,1,25,5,4,5,1,2,10,1,2,1,4
+498,"Ciencias Sociales","Lic. Rodríguez",3,2,10,3,5,2,2,4,10,4,3,1,1
+499,"Biología","Lic. López",5,3,26,2,3,4,3,4,3,1,5,3,1
+500,"Biología","Dra. Jiménez",4,2,27,1,4,2,1,2,7,3,3,2,1
+501,"Arquitectura","Lic. Martínez",2,3,22,4,1,3,1,5,7,3,2,3,4
+502,"Biología","Dr. Pérez",1,1,27,2,5,3,5,1,7,5,3,1,2
+503,"Arquitectura","Dr. Sánchez",5,2,36,3,5,4,2,2,0,5,5,3,2
+504,"Ciencias Sociales","Lic. Rodríguez",5,4,28,5,3,5,3,2,0,2,2,2,3
+505,"Arquitectura","Lic. López",3,2,15,4,3,4,5,1,2,1,1,5,3
+506,"Economía","Dra. Gómez",4,2,14,5,2,1,4,2,6,4,1,3,4
+507,"Ciencias Sociales","Lic. Martínez",1,1,32,3,2,5,4,3,10,4,4,5,2
+508,"Química","Dra. Jiménez",2,5,32,2,1,2,3,4,10,4,3,3,1
+509,"Biología","Dr. Pérez",3,1,30,3,2,1,3,3,4,3,3,5,1
+510,"Ciencias Sociales","Lic. Rodríguez",2,3,27,5,5,1,4,1,2,5,3,2,3
+511,"Psicología","Dr. Sánchez",3,4,30,5,4,5,1,1,5,4,1,4,2
+512,"Ingeniería Civil","Lic. López",4,1,37,2,4,2,5,1,8,1,2,3,3
+513,"Biología","Dra. Gómez",2,2,37,1,3,5,2,1,8,3,1,5,2
+514,"Psicología","Dr. Fernández",3,1,17,1,3,5,3,4,2,2,2,1,4
+515,"Biología","Dr. Pérez",4,5,36,4,2,1,3,2,5,3,4,1,5
+516,"Economía","Dr. Pérez",2,2,23,4,2,5,4,5,1,1,1,5,5
+517,"Psicología","Lic. López",4,5,14,5,1,5,1,1,7,2,4,4,4
+518,"Ingeniería Informática","Dra. Gómez",2,4,34,4,2,5,2,4,9,5,1,2,5
+519,"Biología","Dr. Pérez",5,3,23,2,2,5,1,1,5,1,1,4,1
+520,"Arquitectura","Lic. Rodríguez",1,4,36,1,2,2,5,1,10,4,4,4,2
+521,"Economía","Dra. Gómez",3,4,35,3,3,5,1,3,7,1,1,4,2
+522,"Ingeniería Civil","Lic. López",3,4,24,4,1,1,1,4,2,4,1,2,2
+523,"Química","Dra. Gómez",4,5,29,4,3,3,1,2,7,3,1,4,1
+524,"Derecho","Lic. Rodríguez",5,5,37,2,5,5,3,5,4,3,5,2,3
+525,"Psicología","Lic. Rodríguez",4,2,34,1,1,2,3,1,0,4,2,2,3
+526,"Derecho","Dr. Sánchez",2,3,35,1,2,5,4,2,9,1,5,3,5
+527,"Derecho","Dra. Jiménez",4,1,34,1,1,2,1,5,4,3,3,1,1
+528,"Ingeniería Informática","Lic. Rodríguez",4,4,23,5,2,3,2,5,1,1,4,2,4
+529,"Ciencias Sociales","Dra. Jiménez",2,1,27,4,1,4,5,4,5,5,3,5,2
+530,"Ingeniería Civil","Dr. Fernández",5,2,15,2,1,3,3,1,9,2,3,2,2
+531,"Arquitectura","Dr. Fernández",2,2,28,1,1,2,5,2,1,3,2,3,5
+532,"Psicología","Dra. Gómez",4,1,21,2,5,2,2,2,3,1,5,5,2
+533,"Derecho","Dr. Pérez",5,2,31,1,4,1,2,3,9,1,3,3,3
+534,"Medicina","Dra. Gómez",2,4,10,5,1,3,5,1,8,2,5,2,3
+535,"Ingeniería Civil","Dr. Sánchez",3,2,22,5,2,2,2,1,2,1,3,4,5
+536,"Arquitectura","Lic. López",1,1,16,4,1,1,5,3,3,5,4,1,4
+537,"Arquitectura","Dr. Sánchez",2,3,40,1,5,3,1,2,6,2,3,3,5
+538,"Economía","Dr. Fernández",2,3,12,2,1,5,2,3,10,1,2,1,3
+539,"Economía","Lic. Martínez",5,4,10,4,5,4,3,4,0,4,5,1,4
+540,"Derecho","Lic. López",1,1,23,4,2,2,4,5,4,3,5,2,4
+541,"Ingeniería Informática","Dr. Sánchez",2,3,23,4,5,1,1,3,2,5,5,1,3
+542,"Arquitectura","Lic. López",3,1,27,2,2,2,1,4,0,5,1,1,4
+543,"Psicología","Dr. Sánchez",4,3,25,4,5,1,5,5,1,1,5,4,3
+544,"Psicología","Dra. Gómez",2,2,10,2,5,1,1,1,4,1,2,1,1
+545,"Ingeniería Civil","Lic. López",2,2,13,5,1,2,5,4,6,4,3,4,2
+546,"Biología","Dr. Fernández",1,4,20,3,4,1,5,4,4,4,5,2,1
+547,"Derecho","Dr. Pérez",1,5,35,1,3,4,5,3,9,5,3,3,3
+548,"Biología","Lic. López",3,4,22,3,4,2,2,4,7,4,3,4,2
+549,"Ciencias Sociales","Dra. Gómez",4,2,40,5,5,1,2,4,5,5,3,2,1
+550,"Ciencias Sociales","Dra. Jiménez",4,5,11,1,5,5,3,5,7,5,5,2,3
+551,"Química","Dr. Pérez",4,4,40,4,1,2,3,4,7,2,5,4,5
+552,"Ingeniería Civil","Dr. Sánchez",1,1,17,4,5,3,1,3,4,4,1,1,3
+553,"Derecho","Lic. Martínez",4,2,25,3,5,4,2,3,10,4,4,1,3
+554,"Derecho","Dr. Fernández",1,1,40,4,4,1,5,3,7,4,5,5,2
+555,"Química","Dr. Sánchez",1,3,29,1,5,2,5,5,5,2,5,1,5
+556,"Medicina","Lic. Rodríguez",3,2,14,1,2,3,2,2,7,2,3,2,4
+557,"Ingeniería Informática","Lic. Martínez",2,5,21,3,3,2,5,2,6,4,3,5,2
+558,"Medicina","Dra. Jiménez",1,5,40,4,3,3,5,2,5,5,4,5,2
+559,"Arquitectura","Dra. Gómez",1,2,15,2,5,3,1,2,9,3,2,3,1
+560,"Economía","Dra. Jiménez",2,1,14,1,2,5,3,4,2,2,5,5,2
+561,"Biología","Dr. Sánchez",5,4,13,4,4,5,5,1,10,1,1,3,5
+562,"Ingeniería Informática","Dra. Jiménez",1,5,25,1,4,2,3,2,9,1,1,2,4
+563,"Química","Dr. Sánchez",5,2,30,1,1,2,2,4,5,4,2,3,2
+564,"Ingeniería Civil","Lic. Rodríguez",5,4,32,2,3,3,4,2,0,4,1,2,2
+565,"Química","Dra. Gómez",5,2,39,2,1,4,1,4,0,4,3,2,1
+566,"Derecho","Dra. Jiménez",5,5,25,1,5,3,5,3,8,5,5,4,3
+567,"Ciencias Sociales","Dra. Jiménez",3,5,32,4,3,2,1,2,3,5,2,1,1
+568,"Química","Dr. Pérez",1,4,38,4,5,1,4,3,10,5,1,4,3
+569,"Economía","Lic. López",2,3,35,3,4,3,1,1,4,3,4,5,1
+570,"Arquitectura","Lic. Rodríguez",3,3,35,3,5,5,5,4,7,1,3,1,4
+571,"Ciencias Sociales","Dr. Sánchez",4,3,35,5,3,4,1,3,10,2,4,5,2
+572,"Ciencias Sociales","Lic. López",4,5,11,4,4,5,1,1,5,5,1,2,1
+573,"Arquitectura","Lic. Martínez",2,5,24,1,5,2,1,2,10,3,4,3,1
+574,"Psicología","Lic. López",1,3,23,2,5,1,5,3,6,1,2,4,2
+575,"Biología","Dr. Sánchez",2,2,27,1,3,1,5,3,8,4,2,5,1
+576,"Arquitectura","Lic. Rodríguez",1,3,21,5,3,2,4,5,4,1,5,5,4
+577,"Química","Lic. López",1,4,25,3,5,1,4,1,10,2,5,5,3
+578,"Química","Dra. Jiménez",3,5,37,1,4,1,3,1,2,3,2,4,4
+579,"Derecho","Dr. Sánchez",4,1,35,1,3,4,3,3,0,5,1,1,1
+580,"Derecho","Dr. Fernández",1,4,21,3,4,3,2,5,3,1,3,2,5
+581,"Química","Lic. López",1,4,38,3,4,1,1,3,5,2,3,2,5
+582,"Ingeniería Informática","Lic. López",3,1,27,5,4,2,4,3,10,4,1,4,4
+583,"Arquitectura","Dr. Pérez",3,4,22,2,4,2,2,1,8,4,2,3,3
+584,"Psicología","Dr. Pérez",1,5,25,2,5,2,3,4,9,4,3,1,2
+585,"Economía","Dr. Fernández",2,1,37,1,2,1,5,4,3,3,5,1,3
+586,"Biología","Dr. Fernández",4,1,24,4,1,5,2,3,0,1,5,5,2
+587,"Derecho","Lic. Rodríguez",5,3,30,5,2,5,5,4,5,4,1,2,4
+588,"Química","Lic. Martínez",4,2,25,4,1,1,4,5,1,4,4,2,4
+589,"Ciencias Sociales","Dr. Sánchez",5,1,10,4,2,3,2,4,6,4,5,4,3
+590,"Economía","Dr. Fernández",4,1,15,5,1,5,1,3,1,2,1,5,2
+591,"Psicología","Dr. Pérez",2,1,23,3,2,1,4,1,8,5,5,1,1
+592,"Economía","Lic. López",5,2,31,4,4,5,1,4,6,1,3,3,1
+593,"Química","Lic. López",2,1,35,2,3,4,5,4,4,5,3,4,5
+594,"Psicología","Dr. Sánchez",1,2,39,4,2,5,4,1,4,1,4,5,1
+595,"Medicina","Lic. Rodríguez",5,5,40,3,2,3,3,3,2,2,4,1,5
+596,"Economía","Lic. Martínez",3,4,33,1,2,2,1,4,1,1,3,3,5
+597,"Química","Dr. Pérez",3,2,21,4,5,3,5,5,0,4,4,3,5
+598,"Economía","Lic. López",2,2,20,5,1,4,2,2,0,3,2,3,5
+599,"Biología","Dr. Pérez",4,4,16,3,3,3,2,5,0,2,5,5,2
+600,"Biología","Lic. Rodríguez",4,4,11,1,2,2,2,5,8,2,4,5,2
+601,"Ingeniería Informática","Lic. López",4,5,14,3,1,1,3,2,0,3,1,3,3
+602,"Ingeniería Civil","Dr. Fernández",1,5,26,3,2,3,3,2,9,5,2,4,5
+603,"Arquitectura","Lic. Rodríguez",2,3,26,3,5,4,5,1,1,1,1,1,4
+604,"Ingeniería Civil","Lic. Martínez",4,5,37,4,1,3,4,3,1,2,3,2,5
+605,"Derecho","Dr. Sánchez",2,1,27,1,5,4,1,2,3,1,1,4,5
+606,"Economía","Dra. Gómez",2,4,28,3,5,1,1,2,0,2,2,5,3
+607,"Economía","Lic. Rodríguez",5,3,31,3,4,3,4,1,5,2,2,3,5
+608,"Medicina","Dra. Jiménez",3,5,23,3,4,4,3,3,8,3,2,1,2
+609,"Biología","Lic. Martínez",2,4,11,3,3,2,5,5,6,4,4,4,3
+610,"Química","Lic. Martínez",4,3,19,2,2,1,2,1,9,5,5,2,5
+611,"Psicología","Dr. Fernández",4,1,35,4,1,4,4,5,3,4,4,1,4
+612,"Medicina","Lic. López",5,1,18,2,2,1,3,1,6,2,5,1,3
+613,"Ingeniería Informática","Dr. Fernández",5,3,39,2,3,2,2,4,3,1,5,4,1
+614,"Psicología","Dra. Gómez",2,4,36,2,4,3,5,5,1,5,2,5,3
+615,"Ciencias Sociales","Lic. Martínez",1,5,25,2,2,1,1,4,4,2,4,1,2
+616,"Biología","Dr. Fernández",5,5,10,5,1,2,5,2,5,2,2,4,5
+617,"Ciencias Sociales","Dr. Fernández",3,5,37,2,4,5,2,2,6,2,4,4,4
+618,"Ingeniería Informática","Lic. Martínez",5,4,22,5,4,5,1,5,9,5,1,5,1
+619,"Química","Dr. Fernández",3,5,16,4,2,3,1,4,8,1,5,4,2
+620,"Ciencias Sociales","Dr. Sánchez",2,4,10,1,4,2,5,1,5,2,3,2,5
+621,"Derecho","Lic. López",3,3,21,5,3,3,3,4,8,5,4,2,3
+622,"Biología","Dra. Jiménez",1,5,40,5,2,4,5,2,0,3,3,1,3
+623,"Ciencias Sociales","Dr. Pérez",4,2,26,4,4,5,1,3,7,4,1,2,4
+624,"Medicina","Dr. Fernández",2,2,33,5,2,2,2,2,8,3,3,2,3
+625,"Química","Dra. Gómez",3,4,16,3,5,5,3,2,3,3,3,5,2
+626,"Ciencias Sociales","Lic. Martínez",4,2,33,2,5,3,5,5,4,2,2,3,4
+627,"Química","Lic. López",2,2,13,5,4,1,1,2,8,2,1,3,4
+628,"Arquitectura","Lic. Martínez",4,1,28,5,3,1,5,5,8,5,5,5,5
+629,"Biología","Dr. Sánchez",1,5,12,3,4,2,5,5,4,1,2,5,4
+630,"Química","Lic. Rodríguez",5,4,32,3,2,3,3,5,7,4,3,5,1
+631,"Medicina","Dra. Jiménez",2,2,33,1,1,1,1,5,7,3,2,1,5
+632,"Ingeniería Informática","Lic. Martínez",4,5,35,5,3,1,5,2,7,5,3,2,4
+633,"Ingeniería Civil","Dr. Sánchez",2,2,16,1,2,1,1,5,7,4,4,4,5
+634,"Economía","Dra. Jiménez",2,1,16,4,5,4,1,3,0,3,2,1,2
+635,"Ingeniería Informática","Dr. Fernández",1,3,18,3,4,5,4,5,3,1,2,2,1
+636,"Derecho","Lic. López",1,2,17,4,5,1,3,3,5,3,4,1,3
+637,"Economía","Lic. López",3,2,27,5,1,5,2,3,9,3,1,5,5
+638,"Ciencias Sociales","Lic. Rodríguez",4,4,36,4,5,5,2,1,5,1,1,2,4
+639,"Medicina","Dra. Jiménez",3,2,40,4,5,5,3,1,7,1,2,4,5
+640,"Psicología","Dra. Gómez",2,5,30,4,4,3,2,5,6,2,4,5,5
+641,"Psicología","Dr. Fernández",4,2,15,3,3,2,1,3,4,3,2,4,2
+642,"Medicina","Lic. Martínez",3,2,35,2,5,4,5,2,1,4,3,4,4
+643,"Economía","Lic. Rodríguez",1,4,40,4,5,5,4,4,0,4,3,1,4
+644,"Química","Dra. Gómez",3,1,10,4,4,4,3,3,0,2,1,2,4
+645,"Química","Dra. Jiménez",4,2,22,2,5,2,5,2,1,1,3,1,4
+646,"Medicina","Dra. Gómez",1,5,15,3,3,2,3,2,4,1,1,5,2
+647,"Ingeniería Informática","Lic. Rodríguez",3,2,19,4,4,3,3,4,8,2,2,3,1
+648,"Biología","Lic. López",2,2,22,4,3,4,1,5,9,5,4,2,4
+649,"Ingeniería Civil","Lic. López",2,3,13,3,4,5,2,2,2,2,4,4,2
+650,"Biología","Lic. Martínez",4,2,30,1,1,1,1,3,5,5,2,5,2
+651,"Química","Lic. Rodríguez",5,2,13,5,2,1,2,3,5,2,1,3,2
+652,"Ingeniería Informática","Dr. Sánchez",5,2,37,2,1,3,5,1,0,4,5,3,4
+653,"Economía","Dr. Pérez",5,1,37,3,3,3,1,3,10,5,1,4,2
+654,"Ingeniería Civil","Lic. Rodríguez",5,1,29,4,2,2,5,1,1,3,4,3,1
+655,"Biología","Lic. Martínez",4,1,24,2,2,3,4,4,5,4,2,1,1
+656,"Biología","Dra. Gómez",4,1,38,5,4,1,5,4,10,2,4,4,4
+657,"Psicología","Dr. Sánchez",5,2,36,4,3,3,4,1,6,4,4,4,1
+658,"Ingeniería Civil","Dra. Jiménez",4,2,33,1,4,1,3,3,3,4,1,2,3
+659,"Química","Lic. López",1,5,35,4,2,5,3,5,9,4,3,2,1
+660,"Economía","Lic. López",1,5,10,2,4,1,5,4,8,5,5,4,4
+661,"Ingeniería Civil","Dr. Fernández",2,2,14,2,1,2,3,1,1,2,1,1,4
+662,"Ingeniería Civil","Lic. Martínez",4,2,26,1,4,3,3,2,5,4,2,4,3
+663,"Medicina","Dr. Pérez",2,3,34,5,1,4,5,4,3,2,2,4,5
+664,"Medicina","Lic. Rodríguez",4,1,36,2,2,4,4,3,2,1,2,2,2
+665,"Arquitectura","Dra. Jiménez",5,2,11,4,1,2,2,5,7,1,3,1,4
+666,"Economía","Lic. Martínez",5,2,15,5,3,1,5,2,9,5,4,1,1
+667,"Economía","Dra. Gómez",3,3,29,1,3,1,3,3,4,1,5,5,4
+668,"Derecho","Dr. Sánchez",2,1,14,3,1,5,1,5,0,2,2,2,3
+669,"Ciencias Sociales","Dra. Gómez",2,2,26,4,3,1,5,2,3,5,3,3,3
+670,"Psicología","Dr. Pérez",5,1,27,4,2,3,1,4,2,3,5,2,4
+671,"Biología","Dr. Sánchez",1,5,33,5,4,2,1,5,5,1,3,4,5
+672,"Biología","Lic. Martínez",2,4,28,1,2,5,1,5,4,4,2,5,3
+673,"Medicina","Lic. Martínez",2,2,22,5,3,4,3,2,9,5,4,5,1
+674,"Medicina","Dra. Jiménez",3,4,34,2,1,3,2,1,1,1,5,3,2
+675,"Derecho","Lic. López",1,5,38,4,3,1,2,2,3,5,1,1,5
+676,"Química","Lic. Martínez",5,3,23,5,1,3,3,4,5,5,4,3,3
+677,"Arquitectura","Dra. Jiménez",2,1,13,5,1,5,5,4,0,2,5,1,2
+678,"Arquitectura","Lic. López",5,4,32,3,2,1,2,3,5,4,3,5,1
+679,"Biología","Dr. Pérez",2,3,11,1,3,2,3,5,1,3,2,4,5
+680,"Economía","Dr. Fernández",4,2,35,3,3,2,1,5,6,2,4,4,4
+681,"Derecho","Dra. Jiménez",3,4,20,2,2,5,5,3,7,1,1,2,5
+682,"Medicina","Dra. Gómez",5,1,21,4,1,5,5,5,6,1,4,3,5
+683,"Medicina","Dr. Fernández",4,4,15,5,5,5,1,4,9,4,4,4,4
+684,"Psicología","Dra. Jiménez",2,3,10,3,2,3,4,1,5,2,2,3,3
+685,"Ingeniería Informática","Dr. Fernández",1,1,14,2,5,1,5,2,1,3,1,4,3
+686,"Medicina","Dra. Jiménez",3,2,38,2,4,3,4,4,6,2,3,1,1
+687,"Economía","Lic. Martínez",4,5,23,4,1,2,2,3,4,2,4,4,5
+688,"Ciencias Sociales","Lic. Rodríguez",2,3,17,2,4,2,1,2,5,1,1,4,3
+689,"Psicología","Dr. Sánchez",3,2,31,2,1,5,1,4,7,2,3,1,4
+690,"Ingeniería Informática","Dr. Pérez",5,4,26,5,2,5,1,3,8,3,5,2,4
+691,"Psicología","Dr. Sánchez",1,3,26,1,5,1,4,1,1,1,5,1,3
+692,"Química","Dr. Fernández",4,4,14,2,2,2,1,4,0,3,3,3,5
+693,"Ingeniería Civil","Dra. Gómez",2,3,13,5,5,3,2,1,10,3,5,1,3
+694,"Medicina","Lic. Rodríguez",3,1,17,1,1,1,3,2,7,5,1,3,2
+695,"Derecho","Dr. Fernández",2,4,24,5,5,2,5,4,10,4,3,2,1
+696,"Derecho","Dr. Sánchez",2,2,14,3,1,4,2,5,0,2,3,4,4
+697,"Arquitectura","Dr. Fernández",1,4,39,5,3,1,4,5,10,1,4,4,4
+698,"Biología","Lic. López",2,1,13,4,3,5,5,5,5,1,5,5,4
+699,"Psicología","Dra. Jiménez",5,4,28,4,2,4,3,4,9,2,1,4,3
+700,"Economía","Lic. Rodríguez",3,4,38,2,1,3,5,4,2,5,3,2,1
+701,"Biología","Lic. López",5,3,23,4,1,2,4,1,2,3,5,3,1
+702,"Economía","Lic. Rodríguez",1,1,10,5,3,3,3,1,3,4,1,2,2
+703,"Biología","Dra. Jiménez",1,2,28,2,4,4,3,5,0,5,4,2,5
+704,"Medicina","Dr. Pérez",2,2,34,1,2,2,5,3,0,4,3,2,2
+705,"Medicina","Dr. Sánchez",5,5,24,5,4,2,1,4,6,5,5,1,3
+706,"Medicina","Dra. Gómez",4,4,32,2,2,4,1,3,9,2,3,4,4
+707,"Psicología","Dra. Gómez",2,3,27,3,4,3,5,3,2,2,5,2,3
+708,"Química","Lic. Rodríguez",4,1,31,2,3,1,5,3,2,2,2,3,3
+709,"Ciencias Sociales","Dr. Fernández",4,1,25,1,5,1,1,5,7,1,2,2,3
+710,"Ingeniería Civil","Lic. Rodríguez",4,5,23,3,4,5,4,1,0,5,3,3,5
+711,"Biología","Dra. Gómez",1,1,27,4,2,5,1,2,10,3,5,5,1
+712,"Química","Lic. López",3,4,26,5,3,3,5,5,8,2,3,3,2
+713,"Ingeniería Civil","Dr. Fernández",2,2,18,3,4,4,3,4,4,4,5,5,1
+714,"Ciencias Sociales","Lic. Rodríguez",4,3,38,3,3,5,1,1,1,3,2,1,4
+715,"Psicología","Lic. López",1,4,24,4,3,2,2,4,0,5,3,5,2
+716,"Ciencias Sociales","Dr. Pérez",3,4,36,2,2,4,2,1,6,5,2,2,5
+717,"Medicina","Dr. Fernández",2,1,20,2,3,2,2,4,7,5,1,1,1
+718,"Arquitectura","Dr. Fernández",5,2,32,4,4,3,3,5,1,4,4,5,5
+719,"Química","Dra. Jiménez",2,4,34,3,5,2,1,3,0,2,3,4,5
+720,"Arquitectura","Dra. Jiménez",2,2,38,4,3,3,1,3,7,3,3,1,3
+721,"Medicina","Lic. Martínez",5,5,39,3,5,1,4,3,1,5,5,1,5
+722,"Ingeniería Informática","Dr. Pérez",4,3,25,4,4,2,1,2,2,5,3,4,2
+723,"Psicología","Dr. Sánchez",5,3,32,2,5,2,1,1,1,4,1,3,5
+724,"Biología","Dr. Sánchez",3,2,31,1,4,2,3,3,0,5,5,5,2
+725,"Psicología","Lic. López",4,4,20,5,2,5,1,2,8,2,4,4,4
+726,"Biología","Dra. Jiménez",5,2,22,1,4,3,2,2,7,5,2,2,2
+727,"Biología","Dra. Gómez",3,2,29,2,4,4,1,1,8,5,4,5,1
+728,"Biología","Dra. Gómez",3,1,28,5,3,2,2,5,5,2,2,1,1
+729,"Biología","Dra. Jiménez",2,5,36,1,2,1,5,1,5,5,4,2,2
+730,"Química","Dra. Jiménez",4,3,33,2,1,2,3,2,0,1,2,3,4
+731,"Química","Dra. Jiménez",2,5,17,3,1,1,3,2,3,5,3,4,3
+732,"Ingeniería Civil","Dra. Jiménez",4,4,38,4,1,3,4,2,9,2,2,4,3
+733,"Derecho","Dr. Fernández",1,3,23,1,5,1,1,5,10,5,4,4,4
+734,"Ciencias Sociales","Dra. Jiménez",3,1,10,4,3,4,4,4,3,5,3,4,1
+735,"Ingeniería Civil","Dr. Fernández",2,2,10,3,3,3,5,1,7,3,1,1,1
+736,"Ingeniería Informática","Dr. Sánchez",3,3,37,5,1,2,4,2,9,1,3,4,5
+737,"Ciencias Sociales","Dra. Gómez",4,4,18,4,1,5,4,1,0,2,2,3,1
+738,"Economía","Lic. Martínez",4,2,26,5,5,4,2,1,9,3,4,1,1
+739,"Economía","Lic. Martínez",2,2,38,3,4,2,2,1,10,2,1,5,3
+740,"Química","Dr. Pérez",5,3,19,3,2,2,1,2,0,1,5,4,1
+741,"Química","Lic. Rodríguez",2,2,33,2,3,1,5,1,6,5,4,2,1
+742,"Biología","Dr. Pérez",4,3,24,4,1,5,5,5,2,3,1,4,3
+743,"Biología","Dra. Jiménez",5,2,15,2,4,2,2,5,0,4,5,2,5
+744,"Ingeniería Civil","Lic. Martínez",3,5,23,5,1,1,2,2,3,2,2,3,5
+745,"Economía","Dr. Sánchez",2,3,34,1,5,5,4,2,0,5,1,5,5
+746,"Ciencias Sociales","Lic. López",5,4,32,1,3,2,2,3,0,4,5,4,1
+747,"Química","Lic. Rodríguez",5,2,37,1,4,4,1,2,1,2,4,5,2
+748,"Psicología","Dra. Jiménez",3,5,20,4,1,5,2,5,1,3,3,1,4
+749,"Química","Dr. Pérez",1,5,17,5,3,2,4,2,4,3,4,1,4
+750,"Ingeniería Informática","Lic. López",5,3,27,3,1,4,4,2,6,2,2,3,1
+751,"Ingeniería Civil","Lic. López",4,5,25,4,4,4,1,4,7,4,3,2,1
+752,"Arquitectura","Lic. López",3,5,40,2,4,1,2,3,7,5,3,3,5
+753,"Psicología","Dr. Fernández",3,2,18,1,3,5,5,4,1,5,5,2,4
+754,"Derecho","Dr. Pérez",5,5,15,4,4,4,1,5,0,3,5,5,2
+755,"Biología","Lic. Rodríguez",2,5,25,2,4,4,5,5,2,2,5,1,5
+756,"Medicina","Dra. Jiménez",1,1,33,5,2,1,3,2,1,5,2,3,5
+757,"Química","Dr. Sánchez",5,1,32,1,5,4,1,5,0,3,3,2,2
+758,"Química","Dr. Sánchez",3,3,18,4,5,1,5,3,8,2,1,2,2
+759,"Arquitectura","Lic. Martínez",5,2,33,4,1,5,5,3,9,4,3,4,1
+760,"Química","Lic. López",3,1,13,1,3,5,4,2,0,1,5,1,4
+761,"Economía","Dr. Sánchez",3,1,21,1,4,4,1,4,3,2,1,4,4
+762,"Ingeniería Informática","Dra. Jiménez",2,4,20,4,2,4,3,5,3,1,3,3,3
+763,"Medicina","Lic. Martínez",4,4,11,1,2,5,1,4,1,5,2,4,3
+764,"Ingeniería Civil","Dr. Fernández",1,4,37,1,3,5,1,2,6,2,3,4,2
+765,"Ciencias Sociales","Dr. Pérez",2,1,14,3,2,5,5,4,7,5,3,5,2
+766,"Psicología","Lic. Martínez",4,2,38,1,1,2,5,5,5,3,3,2,2
+767,"Derecho","Dr. Fernández",4,2,37,5,2,3,2,1,2,5,3,1,4
+768,"Derecho","Lic. Rodríguez",2,2,18,3,3,1,1,2,1,5,5,3,4
+769,"Ciencias Sociales","Dr. Pérez",3,5,40,3,5,3,5,2,1,5,1,5,3
+770,"Arquitectura","Dr. Sánchez",4,5,16,3,3,5,1,4,5,2,5,3,3
+771,"Economía","Dr. Fernández",5,3,37,2,3,2,5,1,8,3,4,5,2
+772,"Psicología","Dr. Pérez",3,2,27,5,5,3,1,3,1,5,1,1,2
+773,"Psicología","Dra. Jiménez",4,4,18,1,5,1,5,1,7,4,5,4,3
+774,"Ingeniería Informática","Dr. Pérez",4,4,22,3,5,1,3,3,7,2,1,1,3
+775,"Economía","Dr. Sánchez",5,4,10,3,5,5,1,3,10,2,2,4,2
+776,"Arquitectura","Dr. Fernández",3,3,11,2,3,5,5,2,4,3,2,3,4
+777,"Biología","Lic. López",5,1,28,3,5,1,3,1,0,3,3,1,3
+778,"Ciencias Sociales","Dr. Pérez",5,5,35,1,5,3,3,4,10,5,5,1,3
+779,"Psicología","Dra. Gómez",2,4,16,4,2,2,5,3,1,1,4,4,3
+780,"Ingeniería Informática","Lic. Martínez",2,3,39,5,5,1,1,2,5,3,3,2,4
+781,"Derecho","Dra. Jiménez",4,2,38,1,2,1,3,5,3,5,3,3,1
+782,"Ciencias Sociales","Dr. Pérez",3,1,27,1,3,4,1,3,4,4,2,4,2
+783,"Arquitectura","Dr. Fernández",1,3,13,1,1,2,2,1,1,1,5,2,1
+784,"Psicología","Lic. Rodríguez",2,5,19,1,1,2,5,2,4,1,1,3,2
+785,"Biología","Dra. Gómez",3,4,18,4,1,4,4,2,6,4,3,4,2
+786,"Arquitectura","Dr. Sánchez",5,1,12,4,4,3,3,3,2,5,3,2,1
+787,"Derecho","Dra. Jiménez",2,5,33,3,3,1,3,4,0,1,4,2,1
+788,"Química","Dra. Gómez",1,1,16,3,1,4,3,3,9,1,2,1,1
+789,"Biología","Dra. Gómez",5,5,34,2,2,4,4,4,1,3,4,3,3
+790,"Química","Lic. López",3,5,31,2,5,4,4,2,9,3,4,5,4
+791,"Ingeniería Informática","Dra. Gómez",5,3,27,4,1,3,2,2,0,5,4,3,3
+792,"Química","Lic. Martínez",2,4,39,5,3,5,1,5,10,1,2,3,3
+793,"Biología","Dra. Jiménez",2,4,16,4,4,3,4,3,6,2,1,3,4
+794,"Ingeniería Civil","Dr. Pérez",4,5,23,1,4,3,1,4,0,3,5,3,4
+795,"Ingeniería Informática","Dr. Pérez",5,1,15,1,2,2,1,2,8,3,3,4,4
+796,"Economía","Dr. Sánchez",1,4,28,3,2,3,4,5,2,3,1,1,5
+797,"Ingeniería Informática","Dra. Jiménez",5,5,23,5,5,2,1,2,5,2,4,2,3
+798,"Economía","Dra. Gómez",3,1,25,3,2,4,5,1,8,2,3,3,5
+799,"Arquitectura","Dra. Jiménez",1,2,11,5,5,5,5,4,8,4,3,4,1
+800,"Ciencias Sociales","Lic. López",4,5,31,5,5,1,2,2,6,4,1,3,4
+801,"Ciencias Sociales","Dra. Jiménez",1,3,36,1,4,4,2,5,4,4,3,4,3
+802,"Economía","Dr. Fernández",1,5,20,2,3,4,5,2,4,5,4,5,2
+803,"Arquitectura","Dr. Sánchez",2,5,40,1,4,5,1,3,5,1,2,5,5
+804,"Derecho","Dra. Gómez",3,4,21,5,4,5,3,4,10,3,2,3,3
+805,"Ciencias Sociales","Lic. Rodríguez",3,5,26,1,1,5,4,4,0,5,2,5,4
+806,"Psicología","Lic. Rodríguez",4,2,22,2,1,5,3,3,7,3,3,5,3
+807,"Psicología","Dr. Fernández",3,3,14,2,2,5,3,4,6,3,4,5,5
+808,"Medicina","Dr. Fernández",4,1,16,3,4,2,2,4,5,5,4,4,2
+809,"Biología","Dr. Pérez",1,5,36,2,1,3,2,5,2,2,4,1,2
+810,"Ingeniería Civil","Lic. López",3,1,25,5,5,4,1,4,8,5,4,5,2
+811,"Psicología","Dr. Sánchez",5,1,34,3,5,4,2,2,5,4,4,2,5
+812,"Biología","Dra. Jiménez",3,3,29,2,4,3,1,3,5,3,3,4,4
+813,"Medicina","Lic. López",2,5,19,4,5,3,3,1,0,5,3,2,3
+814,"Ciencias Sociales","Dr. Sánchez",2,1,23,5,2,1,5,3,1,2,1,2,1
+815,"Derecho","Dr. Fernández",2,3,10,3,3,3,1,3,4,4,2,2,1
+816,"Ingeniería Civil","Dra. Gómez",5,4,17,3,1,2,2,1,8,4,5,1,4
+817,"Economía","Dra. Gómez",5,2,15,3,5,5,4,2,6,5,1,4,5
+818,"Ciencias Sociales","Dr. Pérez",1,3,18,1,5,2,1,2,8,2,3,4,1
+819,"Ciencias Sociales","Dra. Jiménez",3,5,10,2,4,5,1,2,5,1,1,2,4
+820,"Biología","Dra. Gómez",5,4,17,3,1,5,3,3,6,1,5,3,3
+821,"Medicina","Dr. Sánchez",2,4,28,3,4,5,4,3,2,5,2,3,5
+822,"Química","Dr. Pérez",3,2,23,3,3,3,2,2,2,3,2,5,3
+823,"Biología","Lic. López",1,5,19,3,4,2,2,3,2,1,3,5,4
+824,"Ingeniería Informática","Dra. Gómez",4,1,21,4,1,1,4,5,4,1,2,3,3
+825,"Biología","Lic. López",5,5,14,3,4,3,1,1,4,2,2,1,4
+826,"Economía","Lic. Rodríguez",4,3,19,2,1,5,2,2,4,5,1,5,1
+827,"Medicina","Dr. Pérez",1,5,23,2,4,2,4,2,3,1,2,3,5
+828,"Medicina","Dr. Pérez",1,1,26,1,4,2,5,2,2,3,2,2,3
+829,"Derecho","Dr. Pérez",2,1,21,2,1,1,3,2,5,4,4,1,5
+830,"Biología","Lic. Rodríguez",2,3,26,5,4,3,4,2,10,3,5,4,1
+831,"Economía","Lic. Martínez",4,3,14,3,5,4,5,1,1,3,1,5,4
+832,"Ciencias Sociales","Lic. Rodríguez",3,2,19,3,4,5,3,3,8,4,4,3,5
+833,"Biología","Dr. Pérez",5,2,19,3,2,2,2,4,7,1,2,5,2
+834,"Ingeniería Informática","Dr. Sánchez",2,2,32,3,1,3,2,3,10,2,1,4,4
+835,"Arquitectura","Dr. Pérez",4,4,18,2,2,2,5,5,6,3,5,5,4
+836,"Psicología","Dr. Sánchez",4,3,29,4,5,3,5,2,4,1,1,3,3
+837,"Psicología","Dr. Fernández",3,4,20,1,3,1,3,2,10,4,2,5,1
+838,"Economía","Lic. López",2,1,39,4,3,1,2,3,8,2,1,2,4
+839,"Medicina","Dra. Jiménez",4,4,24,2,5,3,3,3,6,4,1,5,2
+840,"Psicología","Dra. Gómez",3,4,28,1,1,5,5,1,5,2,5,3,4
+841,"Ingeniería Civil","Lic. Rodríguez",5,2,13,4,3,5,5,5,6,3,4,1,3
+842,"Ingeniería Civil","Dra. Gómez",3,3,26,5,2,5,5,1,10,4,5,2,4
+843,"Ingeniería Civil","Dr. Fernández",5,3,32,1,5,1,5,3,7,1,4,5,2
+844,"Arquitectura","Dr. Sánchez",4,4,17,3,4,5,2,3,9,2,4,4,4
+845,"Psicología","Dr. Pérez",2,3,18,5,4,5,2,2,3,2,3,5,5
+846,"Medicina","Dr. Pérez",5,2,32,4,1,2,1,2,1,1,4,2,5
+847,"Biología","Dr. Sánchez",3,2,28,4,3,1,3,3,6,4,4,2,1
+848,"Medicina","Dr. Fernández",3,3,36,2,5,5,2,1,8,4,1,5,2
+849,"Medicina","Dr. Pérez",1,5,16,5,1,2,3,1,6,4,2,4,5
+850,"Biología","Dr. Pérez",3,1,30,4,2,2,1,4,8,4,4,4,4
+851,"Economía","Lic. Martínez",3,5,30,3,5,5,1,3,6,3,3,5,4
+852,"Arquitectura","Lic. Rodríguez",5,1,29,4,2,4,3,2,2,3,3,4,4
+853,"Arquitectura","Dr. Pérez",2,3,29,4,2,1,5,4,6,2,4,2,4
+854,"Química","Dra. Gómez",2,3,15,1,5,5,3,1,7,2,4,5,2
+855,"Ciencias Sociales","Lic. López",5,2,35,5,2,3,5,4,6,4,5,5,4
+856,"Psicología","Lic. Martínez",3,1,27,2,4,2,1,4,4,2,1,5,4
+857,"Ciencias Sociales","Dra. Jiménez",5,3,17,3,5,4,3,5,1,2,2,4,5
+858,"Psicología","Dra. Jiménez",3,3,21,5,2,1,1,1,9,1,4,3,4
+859,"Ingeniería Informática","Lic. López",5,2,39,2,1,5,4,1,2,3,4,1,2
+860,"Derecho","Dr. Pérez",3,1,19,2,4,2,1,1,7,4,2,2,2
+861,"Medicina","Dr. Sánchez",4,1,15,5,4,4,5,4,8,5,3,1,3
+862,"Ingeniería Informática","Dr. Sánchez",4,4,39,1,2,1,1,1,7,4,1,3,1
+863,"Ingeniería Civil","Dra. Gómez",3,2,30,4,1,4,4,4,10,3,1,1,4
+864,"Derecho","Lic. Martínez",1,2,37,1,4,2,5,1,8,4,4,5,5
+865,"Psicología","Dr. Sánchez",4,4,36,3,4,2,2,3,10,1,2,1,4
+866,"Psicología","Lic. López",1,2,15,3,4,1,1,3,10,4,2,3,5
+867,"Psicología","Dra. Jiménez",3,3,22,4,3,3,1,3,9,3,5,3,1
+868,"Ingeniería Informática","Dr. Pérez",5,2,30,1,1,4,4,4,7,2,4,4,3
+869,"Ciencias Sociales","Dra. Gómez",3,4,17,1,1,3,2,3,3,2,4,3,2
+870,"Psicología","Dra. Gómez",4,3,26,5,4,3,4,1,8,3,4,1,2
+871,"Medicina","Dr. Fernández",3,4,35,1,1,1,4,2,3,3,3,2,3
+872,"Derecho","Lic. Rodríguez",1,1,17,2,4,2,2,1,6,3,5,2,5
+873,"Derecho","Dr. Fernández",4,5,36,1,4,4,1,4,1,3,4,3,3
+874,"Biología","Lic. López",1,4,21,4,5,5,2,2,2,3,1,2,5
+875,"Medicina","Dr. Fernández",2,3,21,2,1,5,5,5,8,5,2,2,2
+876,"Química","Lic. López",2,2,33,1,5,3,2,2,2,1,4,4,1
+877,"Biología","Dra. Jiménez",3,5,37,5,3,5,3,5,10,5,1,2,5
+878,"Biología","Dr. Sánchez",1,1,25,5,4,4,4,4,10,2,2,4,4
+879,"Química","Dr. Fernández",3,1,25,2,1,1,2,3,3,1,5,4,1
+880,"Derecho","Lic. Martínez",4,4,39,3,2,5,2,1,1,2,1,3,2
+881,"Medicina","Dra. Jiménez",1,4,32,4,1,3,1,2,0,2,3,2,5
+882,"Psicología","Dra. Gómez",3,5,10,3,1,2,1,1,1,4,1,3,1
+883,"Ciencias Sociales","Lic. Rodríguez",4,2,32,3,1,4,1,1,2,3,3,5,4
+884,"Psicología","Lic. Martínez",2,2,23,2,5,2,3,1,6,1,5,5,5
+885,"Psicología","Lic. Martínez",2,5,25,2,1,3,1,2,3,5,4,3,5
+886,"Derecho","Lic. Martínez",3,5,19,2,2,3,4,5,1,4,4,3,3
+887,"Biología","Lic. Rodríguez",4,5,38,5,2,5,5,4,4,1,5,4,2
+888,"Química","Lic. López",4,1,24,4,3,3,5,2,9,1,1,2,3
+889,"Economía","Dr. Sánchez",3,5,33,3,5,2,5,1,10,2,5,2,2
+890,"Arquitectura","Lic. López",1,2,36,2,5,2,2,5,3,5,1,3,4
+891,"Psicología","Dr. Fernández",4,4,16,3,1,5,2,3,9,3,1,1,2
+892,"Biología","Lic. López",5,4,12,2,1,3,4,1,2,4,2,1,5
+893,"Química","Lic. Martínez",2,3,13,4,3,3,1,5,4,1,2,1,5
+894,"Ingeniería Civil","Dr. Pérez",3,2,24,2,4,2,2,1,0,5,4,5,2
+895,"Biología","Lic. López",3,1,22,3,1,1,4,1,8,5,1,1,4
+896,"Ciencias Sociales","Dr. Pérez",2,2,23,4,3,2,2,3,2,2,2,4,5
+897,"Psicología","Dra. Jiménez",5,2,40,5,1,5,2,3,10,5,5,5,1
+898,"Economía","Dr. Pérez",2,1,28,3,5,2,3,5,10,1,3,5,1
+899,"Ingeniería Informática","Dra. Jiménez",4,2,23,3,2,2,2,5,6,5,5,4,4
+900,"Arquitectura","Dr. Pérez",2,2,10,1,3,1,1,3,9,1,1,5,4
+901,"Ciencias Sociales","Dr. Fernández",5,1,40,3,1,1,5,5,1,5,2,3,2
+902,"Derecho","Dra. Jiménez",5,5,15,2,2,4,4,5,0,2,4,4,2
+903,"Ciencias Sociales","Dra. Jiménez",2,1,26,2,3,2,2,1,0,1,1,2,2
+904,"Ciencias Sociales","Dr. Sánchez",2,1,33,4,1,4,1,5,4,5,3,2,1
+905,"Derecho","Lic. López",2,5,12,2,5,5,1,2,4,4,4,3,1
+906,"Ingeniería Informática","Dr. Fernández",5,3,12,2,2,1,4,3,10,2,2,5,4
+907,"Ingeniería Informática","Dra. Jiménez",3,4,40,2,2,1,5,2,8,3,2,5,3
+908,"Ingeniería Informática","Dra. Jiménez",1,4,10,2,5,4,4,5,1,2,1,5,2
+909,"Química","Dra. Gómez",5,4,26,1,5,2,5,1,7,3,5,2,2
+910,"Arquitectura","Dr. Sánchez",1,5,27,3,2,3,1,1,0,1,3,3,1
+911,"Química","Dra. Gómez",1,1,18,5,2,4,2,2,10,3,1,5,2
+912,"Biología","Dra. Jiménez",1,2,23,4,3,2,1,1,4,2,2,3,2
+913,"Biología","Dra. Jiménez",2,3,24,5,5,3,2,3,4,5,2,4,3
+914,"Derecho","Dr. Fernández",3,5,25,1,5,4,3,1,10,4,5,5,2
+915,"Química","Dra. Jiménez",5,1,22,2,4,4,4,1,1,3,5,4,1
+916,"Ingeniería Civil","Dra. Gómez",4,3,34,3,5,3,3,2,4,4,4,3,2
+917,"Biología","Lic. Rodríguez",2,1,40,5,1,1,2,4,0,3,3,2,1
+918,"Economía","Dra. Gómez",4,5,26,2,3,3,5,5,8,1,2,3,5
+919,"Biología","Lic. López",5,3,39,4,2,3,4,1,0,2,5,5,2
+920,"Derecho","Dra. Gómez",1,5,18,1,2,2,4,4,2,3,3,3,4
+921,"Ingeniería Civil","Dra. Jiménez",3,2,18,1,1,3,3,5,8,1,5,3,2
+922,"Biología","Dr. Fernández",5,5,17,3,2,3,4,5,9,4,3,4,5
+923,"Biología","Lic. López",1,2,17,4,3,3,4,1,8,1,4,2,2
+924,"Psicología","Dra. Jiménez",4,1,25,3,2,5,5,4,5,5,4,2,3
+925,"Psicología","Dra. Gómez",3,5,40,2,3,5,4,4,0,3,1,4,4
+926,"Ciencias Sociales","Dr. Pérez",5,5,28,3,1,1,2,5,7,5,5,5,5
+927,"Ingeniería Civil","Dr. Pérez",5,1,21,4,5,2,1,5,0,1,3,1,4
+928,"Ciencias Sociales","Dr. Sánchez",3,4,27,1,4,2,4,4,4,4,1,3,2
+929,"Biología","Lic. Martínez",1,1,27,1,3,3,4,2,2,1,1,3,5
+930,"Ingeniería Informática","Dra. Gómez",3,2,27,4,1,5,3,4,1,3,4,1,2
+931,"Ingeniería Civil","Lic. Rodríguez",2,5,31,1,5,4,3,2,5,5,2,2,1
+932,"Química","Dra. Gómez",3,5,24,3,1,5,5,4,7,5,2,5,1
+933,"Derecho","Dr. Pérez",5,3,34,2,1,5,1,3,8,5,1,3,4
+934,"Economía","Lic. López",5,3,21,2,1,4,2,1,10,1,1,3,3
+935,"Ciencias Sociales","Dr. Fernández",2,5,20,2,5,4,5,3,1,5,3,4,3
+936,"Derecho","Dr. Sánchez",2,1,10,1,1,1,1,3,4,4,3,5,2
+937,"Psicología","Dra. Gómez",2,3,17,5,5,5,3,3,6,4,5,1,2
+938,"Ingeniería Civil","Lic. Rodríguez",1,1,35,5,2,1,1,5,2,1,2,4,3
+939,"Ingeniería Informática","Dra. Gómez",3,4,27,2,3,1,1,5,0,1,3,1,2
+940,"Arquitectura","Dra. Jiménez",5,4,12,3,1,5,5,1,10,5,2,1,4
+941,"Química","Dr. Sánchez",3,3,26,2,5,1,4,5,6,3,5,2,4
+942,"Ciencias Sociales","Lic. Martínez",2,3,16,3,3,1,4,3,8,2,2,3,5
+943,"Ciencias Sociales","Dra. Gómez",4,4,24,3,3,4,3,2,6,3,2,1,3
+944,"Química","Lic. López",2,4,30,3,1,4,1,5,10,3,1,1,5
+945,"Biología","Lic. Martínez",4,5,35,3,3,1,5,1,4,5,1,3,2
+946,"Arquitectura","Dra. Jiménez",5,2,22,4,1,5,5,1,4,3,5,4,3
+947,"Química","Lic. López",1,2,30,5,4,1,1,5,1,3,2,5,4
+948,"Derecho","Lic. López",3,4,16,1,4,3,2,5,1,1,2,4,3
+949,"Ingeniería Civil","Dra. Gómez",5,5,18,5,1,4,1,3,9,2,5,1,1
+950,"Ingeniería Civil","Lic. López",2,4,30,1,2,3,5,3,2,5,2,4,5
+951,"Derecho","Dra. Jiménez",1,1,27,1,3,4,1,4,6,2,2,2,3
+952,"Psicología","Lic. López",3,3,34,2,3,4,1,4,9,4,1,4,3
+953,"Arquitectura","Lic. Rodríguez",5,2,33,1,2,3,1,3,3,4,5,4,3
+954,"Psicología","Dra. Jiménez",2,1,35,5,4,2,1,4,8,4,5,2,5
+955,"Medicina","Dr. Pérez",3,3,20,2,1,4,2,1,9,1,1,1,2
+956,"Economía","Dr. Pérez",1,4,39,5,2,3,4,2,6,5,2,4,4
+957,"Psicología","Dra. Jiménez",1,5,40,2,1,3,3,4,0,2,2,2,4
+958,"Economía","Dr. Sánchez",2,1,25,3,1,2,4,2,0,3,4,5,5
+959,"Derecho","Lic. Martínez",2,2,35,5,1,5,2,2,3,1,2,3,4
+960,"Química","Dr. Sánchez",1,5,10,3,4,5,4,5,7,3,4,1,5
+961,"Ingeniería Civil","Lic. López",3,4,35,4,2,5,3,2,7,5,5,3,4
+962,"Derecho","Dra. Gómez",2,5,20,3,5,1,2,3,2,4,5,4,3
+963,"Psicología","Dr. Sánchez",3,4,13,4,2,4,5,4,0,2,1,3,2
+964,"Ingeniería Informática","Dr. Fernández",1,5,21,1,1,3,1,2,7,1,2,3,5
+965,"Medicina","Lic. Martínez",2,1,16,4,4,2,2,2,10,4,5,1,5
+966,"Ingeniería Civil","Dr. Pérez",3,4,39,1,1,3,3,1,2,4,2,3,4
+967,"Biología","Lic. Martínez",3,4,21,5,3,3,4,3,3,2,3,5,3
+968,"Ingeniería Civil","Lic. López",2,1,15,1,5,4,1,2,3,2,1,3,2
+969,"Química","Lic. Martínez",2,1,29,5,4,3,5,4,2,2,3,5,1
+970,"Psicología","Dra. Gómez",5,4,13,5,1,3,5,4,1,4,3,1,1
+971,"Medicina","Dr. Pérez",3,1,10,5,1,4,4,4,9,4,1,2,1
+972,"Economía","Lic. Rodríguez",5,3,15,3,5,2,3,1,8,4,3,1,1
+973,"Psicología","Dra. Jiménez",1,3,40,2,2,1,2,2,3,3,2,5,4
+974,"Derecho","Lic. Martínez",2,5,30,4,2,5,5,4,9,3,5,5,2
+975,"Química","Dra. Jiménez",2,5,40,5,4,2,5,1,8,3,5,4,3
+976,"Ingeniería Civil","Dr. Fernández",1,3,10,1,3,5,1,4,5,4,3,4,1
+977,"Medicina","Lic. Rodríguez",1,2,33,4,1,5,3,2,9,2,3,5,4
+978,"Arquitectura","Dra. Gómez",3,1,40,1,3,2,2,4,2,4,1,4,3
+979,"Biología","Lic. Rodríguez",4,3,33,2,3,5,3,4,1,5,3,5,2
+980,"Derecho","Dra. Jiménez",1,2,14,3,3,1,2,1,1,1,5,2,2
+981,"Economía","Lic. López",1,4,10,1,2,1,1,3,7,5,3,4,1
+982,"Arquitectura","Lic. López",5,5,22,3,2,3,3,4,6,1,1,1,5
+983,"Química","Lic. Rodríguez",2,2,13,3,3,5,5,1,9,1,2,1,3
+984,"Ingeniería Civil","Dr. Fernández",2,2,16,5,2,4,1,5,9,4,3,5,1
+985,"Derecho","Dra. Gómez",2,4,29,4,1,4,3,3,1,2,4,4,4
+986,"Biología","Lic. Rodríguez",5,5,23,1,4,4,4,1,9,5,1,2,2
+987,"Ingeniería Informática","Dr. Fernández",5,5,17,2,5,4,3,1,4,1,4,4,1
+988,"Economía","Dr. Sánchez",4,3,35,2,3,2,4,2,0,5,3,5,4
+989,"Ingeniería Civil","Dr. Pérez",1,3,23,4,4,4,1,5,6,3,3,1,2
+990,"Economía","Lic. López",4,4,19,3,1,1,4,5,1,3,4,1,4
+991,"Biología","Dra. Jiménez",5,5,17,4,4,2,1,5,2,5,2,3,3
+992,"Medicina","Dr. Pérez",1,5,13,4,2,3,2,2,2,3,4,3,1
+993,"Economía","Lic. Rodríguez",1,1,28,5,3,4,3,4,6,3,3,1,5
+994,"Derecho","Lic. López",3,1,11,3,4,2,1,1,1,3,3,2,4
+995,"Psicología","Lic. Rodríguez",3,4,32,3,2,1,2,5,0,2,2,2,3
+996,"Medicina","Dra. Gómez",3,1,18,1,3,4,3,4,6,3,5,1,3
+997,"Ingeniería Informática","Dr. Pérez",2,2,10,4,1,5,2,1,2,3,3,3,2
+998,"Medicina","Lic. Rodríguez",4,4,26,5,3,2,3,2,10,3,1,5,1
+999,"Psicología","Dr. Fernández",3,5,21,5,2,5,5,3,1,5,2,4,5
+1000,"Psicología","Dra. Jiménez",2,4,25,1,4,4,3,1,8,1,2,1,2
